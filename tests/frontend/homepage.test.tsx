@@ -17,14 +17,14 @@ describe('Milestone 4 — Homepage Components', () => {
 
   it('renders TourGrid and filters tours by category', () => {
     render(<TourGrid tours={FEATURED_TOURS} showFilters={true} />);
-    expect(screen.getByText(/West Nusa Penida Island With 3 Point Snorkling/i)).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: /10 Days 9 Nights Bali Tour Packages/i })).toBeInTheDocument();
 
     // Click on 1-Day Highlights filter tab
     const dayTourTab = screen.getByRole('button', { name: /1-Day Highlights/i });
     fireEvent.click(dayTourTab);
 
     // Expect day tour to be visible
-    expect(screen.getByText(/Ubud Tour With Jungle Swing/i)).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: /Sunrise Jeep Tour/i })).toBeInTheDocument();
   });
 
   it('renders ContactForm and displays validation errors for empty submissions', async () => {
@@ -40,7 +40,7 @@ describe('Milestone 4 — Homepage Components', () => {
 
   it('renders entire HomePage with live popular tours and reviews summary', () => {
     render(<HomePage />);
-    expect(screen.getByText(/West Nusa Penida Island With 3 Point Snorkling/i)).toBeInTheDocument();
+    expect(screen.getByRole('heading', { name: /Sunrise Jeep Tour/i })).toBeInTheDocument();
     expect(screen.getByText(/Car Hire Bali with Driver/i)).toBeInTheDocument();
     expect(screen.getByText(/Review & Gallery/i)).toBeInTheDocument();
     expect(screen.getByText(/1,192 reviews/i)).toBeInTheDocument();

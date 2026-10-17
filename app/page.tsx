@@ -19,31 +19,31 @@ export default function HomePage() {
     'Hello Bali Asri Tour, I am interested in booking a tour / car rental in Bali.'
   )}`;
 
-  // Exact 3 Popular Tours shown on live reference homepage
+  // Official 3 Popular Tours from the notebook catalog
   const POPULAR_TOURS_EXACT = [
     {
-      id: 'nusa-penida-3-point',
-      title: 'West Nusa Penida Island With 3 Point Snorkling',
-      slug: 'west-nusa-penida-island-with-3-point-snorkling',
-      image: '/images/tour-nusa-penida.jpg',
+      id: 'sunrise-jeep-tour',
+      title: 'Sunrise Jeep Tour and Hot Spring Tour + Hotel Pick-up',
+      slug: 'sunrise-jeep-tour-and-hot-spring-tour-plus-hotel-pick-up',
+      image: '/images/tours/sunrise-jeep-tour.webp',
       description:
-        'Dive into an unforgettable adventure with our West Nusa Penida Island and 3 Spots Snorkeling with Manta Ray. Explore...',
+        'Embark on a thrilling journey with our Sunrise Jeep Tour and Hot Spring Tour Plus Hotel Pick Up. Explore Mount Batur volcanic caldera and relax in natural hot springs.',
     },
     {
-      id: 'volcano-kintamani',
-      title: 'Volcano Kintamani and Scenic Waterfall Tour',
-      slug: 'volcano-kintamani-and-scenic-waterfall-tour',
-      image: '/images/tour-kintamani.jpg',
-      description:
-        'Discover the heart of Bali with our Volcano Kintamani and Scenic Waterfall Tour. This comprehensive journey takes you through...',
-    },
-    {
-      id: 'ubud-swing-atv',
-      title: 'Bali ATV and Ubud Swing Tour',
-      slug: 'bali-atv-and-ubud-swing-tour',
+      id: 'best-of-ubud',
+      title: 'Best of Ubud Tour',
+      slug: 'best-of-ubud-tour',
       image: '/images/tour-ubud-swing.jpg',
       description:
-        'Experience the ultimate adventure and cultural immersion in Ubud with our Best of Ubud Adventure Tour.',
+        'Experience Ubud’s iconic Sacred Monkey Forest Sanctuary, lush Tegallalang Rice Terraces, scenic jungle swing, and sacred Tirta Empul water temple.',
+    },
+    {
+      id: 'instagrammable-bali',
+      title: 'The Most Bali Instagrammable Private Day Trip',
+      slug: 'the-most-bali-instagramable-private-day-trip',
+      image: '/images/tour-nusa-penida.jpg',
+      description:
+        'Capture Bali’s most iconic photos at Lempuyang Gate of Heaven, Tirta Gangga Water Palace, and historic Taman Ujung with an English-speaking driver and photographer.',
     },
   ];
 
