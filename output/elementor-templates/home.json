@@ -1,0 +1,3075 @@
+{
+  "version": "0.4",
+  "title": "Bali Tour package - Bali Guide - Car Hire Bali with Driver",
+  "type": "page",
+  "content": [
+    {
+      "id": "a9eeee8",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full"
+      },
+      "elements": [
+        {
+          "id": "3b18a0f",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Bali Agung Tours",
+            "header_size": "h4",
+            "align": "left",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "ebe3080",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "button",
+          "settings": {
+            "text": "Bali Agung Tour",
+            "link": {
+              "url": "https://bali-agung-tours.com",
+              "is_external": true,
+              "nofollow": false
+            },
+            "align": "left",
+            "align_mobile": "center",
+            "button_type": "default"
+          }
+        },
+        {
+          "id": "13cc665",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "button",
+          "settings": {
+            "text": "+6281237897308",
+            "link": {
+              "url": "https://wa.me/6281237897308",
+              "is_external": true,
+              "nofollow": false
+            },
+            "align": "left",
+            "align_mobile": "center",
+            "button_type": "default"
+          }
+        },
+        {
+          "id": "0c86e8c",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "button",
+          "settings": {
+            "text": "agung@bali-agung-tours.com",
+            "link": {
+              "url": "mailto:agung@bali-agung-tours.com",
+              "is_external": false,
+              "nofollow": false
+            },
+            "align": "left",
+            "align_mobile": "center",
+            "button_type": "default"
+          }
+        },
+        {
+          "id": "1c984fd",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "button",
+          "settings": {
+            "text": "Home",
+            "link": {
+              "url": "https://bali-agung-tours.com/",
+              "is_external": true,
+              "nofollow": false
+            },
+            "align": "left",
+            "align_mobile": "center",
+            "button_type": "default"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5aa3c7d",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "80ed250",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "ec6466e",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "4bbd150",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "+6281237897308",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "5ef92eb",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://wa.me/6281237897308",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2078986",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "babe21a",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "agung@bali-agung-tours.com",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "dfc6bbe",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "mailto:agung@bali-agung-tours.com",
+                      "is_external": false,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "beb260c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "ab0b57c",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #3",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce8319a",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "9852dbc",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "bcf8a7e",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "b027791",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2022/08/logo-white.png",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "8e868d1",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Home",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "bc6a8f4",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "305f668",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "de38b66",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Car with Driver",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "c1f8f22",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/book-a-car/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "bb471c1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "f08db46",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Airport & Hotel Shuttle",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "12b3dc6",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-airport-hotel-shuttle/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "b34141f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "1b940cf",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Book a Tours",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "cdeb421",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-tour-packages-old/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "bffc699",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "3122b42",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Day Tours",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "0ab66af",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-day-tours/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97b932f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed"
+      },
+      "elements": [
+        {
+          "id": "b464589",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Bali Tour Packages",
+            "header_size": "h2",
+            "align": "left",
+            "align_mobile": "center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7eda000",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "17d00cf",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "708a586",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "a5c1c8e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Hire Car with Driver",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "95efab7",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/book-a-car/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "76353c3",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "8d4dbf3",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Day Tours",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "5db32a9",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-day-tours/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "fb531dc",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "5f33d76",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Experiences",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "ee4fd9e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-experience-tours/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d45820c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "d297e61",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "a575891",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "193d67e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Packages",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "5d4299f",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-tour-package/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "99ca4a2",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "9388998",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Airport & Hotel Shuttle",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "9968bec",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/bali-airport-hotel-shuttle/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7b5a55d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "9c3cdb1",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Beyond Bali Trips",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "369c70e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://bali-agung-tours.com/beyond-bali-trips/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56c115c",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "d171907",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Hire Bali Car with Driver – Rated 5★ TripAdvisor",
+            "header_size": "h2",
+            "align": "center",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "8c2bb30",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "85f600e",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "8b0c1cb",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2026/05/tripadvisor-new-1024x665.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "b1a89f2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Hire Bali Car with Driver – Rated 5★ TripAdvisor",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "33af78d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Explore Bali’s hidden gems — Let ourTripAdvisor Travelers’ Choice 2026, award‑winning Bali Driver Guides lead the way! Trusted by global travelers, we take you to breathtaking locations only locals know. Sit back, relax, and enjoy Bali — Hire your Bali Local Driver</p>",
+                    "align": "left"
+                  }
+                },
+                {
+                  "id": "0702675",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://wa.me/6281237897308",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "395d077",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "b265e06",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "TripAdvisor Travelers’ Choice 2026",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "16ff00e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://www.tripadvisor.com/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "d8ced0f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "192cd9d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #3",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1876574",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed"
+      },
+      "elements": [
+        {
+          "id": "91270af",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "image",
+          "settings": {
+            "image": {
+              "url": "https://bali-agung-tours.com/wp-content/uploads/2026/05/tripadvisor-new-1024x665.jpg",
+              "id": "",
+              "alt": ""
+            },
+            "align": "center"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1b1ec65",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "5b71a78",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Excellent reviews",
+            "header_size": "h2",
+            "align": "center",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "52b0538",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "ffdce6c",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "f6c60ba",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Free cancellation",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "9c97301",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Rated excellent on Tripadvisor by our happy customer. Read their stories and plan your perfect Bali tour today!</p>",
+                    "align": "left"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "32b7275",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "c554c92",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #2",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "8a0aa8d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Cancel up to 24 hours before your tour starts — no cancellation fee. Flexible booking for your peace of mind.</p>",
+                    "align": "left"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "2d41e70",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "4630df8",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #3",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "8178450",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Discover the real Bali with trusted local experts. Private tour drivers and guides are ready to create your unforgettable journey</p>",
+                    "align": "left"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39ae623",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "4716881",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Car Hire Bali with Driver",
+            "header_size": "h2",
+            "align": "center",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "e4520e3",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "df53f73",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "8ff8cd3",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "+6281237897308",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "a4e4ace",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Trusted by 1000+ Happy Travelers Worldwide • Personalized Itinerary • No Rush, No Stress</p>",
+                    "align": "left"
+                  }
+                },
+                {
+                  "id": "65187bd",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://wa.me/+6281237897308",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "773a085",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "e820ce2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "+628174108800",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "3227541",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://wa.me/+628174108800",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "8df5c3d",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "0d433ea",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "agung@bali-agung-tours.com",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "aff17a2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "mailto:agung@bali-agung-tours.com",
+                      "is_external": false,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "9c247f1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "079322e",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Jl Padang Galak 88, Denpasar, Bali , Indonesia 80237",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "9e68c75",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://maps.app.goo.gl/7xGTn8P4eiWvtbMGA",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30af84e",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed"
+      },
+      "elements": [
+        {
+          "id": "d12c4da",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Review & Gallery",
+            "header_size": "h2",
+            "align": "center",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "16edc41",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "gap": {
+              "unit": "px",
+              "size": 15
+            }
+          },
+          "elements": [
+            {
+              "id": "3fbe6c2",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                }
+              },
+              "elements": [
+                {
+                  "id": "373bd7d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/elementor/thumbs/caption-4-1-r9aodpe1iu8lfp2fltkga8f4eypa2f8ya0aheotepk.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "9dc75f1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                }
+              },
+              "elements": [
+                {
+                  "id": "febb177",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/elementor/thumbs/caption-6-1-r9aodqbvpo9vrb12gbz2uq6l0ckna4com4xyvys0jc.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7aa0e3a",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                }
+              },
+              "elements": [
+                {
+                  "id": "c2ad7ce",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/elementor/thumbs/caption-8-1-r9aodqbvpo9vrb12gbz2uq6l0ckna4com4xyvys0jc.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "aa4bf33",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                }
+              },
+              "elements": [
+                {
+                  "id": "a91d6f6",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/elementor/thumbs/full-view-1-r9aodr9pwib62wzpaudpf7y1lqg0htgey9lgd8qmd4.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "324b2cb",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                }
+              },
+              "elements": [
+                {
+                  "id": "253e6c5",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/elementor/thumbs/img-20161123-170839-largejpg-1-r9aods7k3ccgeiyc5csbzppi74bdpik5ae8xuip86w.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "fd1d164",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                }
+              },
+              "elements": [
+                {
+                  "id": "3ec4e90",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/elementor/thumbs/seafood-dinner-on-beach-1-r9d4284q519zme1mqqt607379qm3qzezxc1fz2m1mg.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71a5271",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "55832a0",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "a74dc68",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "8bb5dc7",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2022/08/partners_01.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "b7029ad",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": null,
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "119f048",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "59e7f00",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2022/08/partners_02.jpg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "c8492df",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #2",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "292cbe5",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "a7296a2",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #3",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "588dc03",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "0d6d05d",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "Jl Padang Galak 88, Denpasar, Bali , Indonesia 80237",
+            "header_size": "h2",
+            "align": "center",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "ee6e66a",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "95316ae",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "63757fe",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2022/08/logo-white.png",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "1248724",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "+6281237897308",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "afc0a8d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "tel:+6281237897308",
+                      "is_external": false,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "03f94c1",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "4e9df7a",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2026/08/Bali-Visa-on-Arrival-2026-1024x576.png",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "6c0a0d4",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "+6281237897308",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "d90c485",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://wa.me/6281237897308",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "d05d512",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "27a0faf",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2026/08/Bali-Trip-Package-from-Hyderabad-1024x576.png",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "cc463aa",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "+628174108800",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "4416391",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://wa.me/628174108800",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "f7e63c4",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "65d161c",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2026/08/Tourism_executive_holding_certif…_202608181902-1024x572.jpeg",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "644bf2d",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "agung@bali-agung-tours.com",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "c8c3159",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "mailto:agung@bali-agung-tours.com",
+                      "is_external": false,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "652736f",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "f3fa6d9",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2022/08/paypal.webp",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "e500f44",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Facebook-f",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "25ce460",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "button",
+                  "settings": {
+                    "text": "View Details",
+                    "link": {
+                      "url": "https://m.facebook.com/balidaytour/",
+                      "is_external": true,
+                      "nofollow": false
+                    },
+                    "align": "center",
+                    "align_mobile": "center",
+                    "button_type": "default"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04cf4e6",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "padding": {
+          "unit": "px",
+          "top": 40,
+          "right": 20,
+          "bottom": 40,
+          "left": 20
+        }
+      },
+      "elements": [
+        {
+          "id": "1594972",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "heading",
+          "settings": {
+            "title": "PT. TRIP KUY INDONESIA | Bussiness Licence : 2712210002034",
+            "header_size": "h2",
+            "align": "center",
+            "align_mobile": "center"
+          }
+        },
+        {
+          "id": "7781e1b",
+          "elType": "container",
+          "isInner": true,
+          "settings": {
+            "flex_direction": "row",
+            "flex_direction_mobile": "column",
+            "flex_wrap": "wrap",
+            "flex_justify_content": "space-between",
+            "gap": {
+              "unit": "px",
+              "size": 20
+            }
+          },
+          "elements": [
+            {
+              "id": "d8c9fde",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "9cc980a",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "image",
+                  "settings": {
+                    "image": {
+                      "url": "https://bali-agung-tours.com/wp-content/uploads/2025/12/asita-300x217.png",
+                      "id": "",
+                      "alt": ""
+                    },
+                    "align": "center"
+                  }
+                },
+                {
+                  "id": "7faf554",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": null,
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                },
+                {
+                  "id": "d404749",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "text-editor",
+                  "settings": {
+                    "editor": "<p>Copyright ©2005-2026 Bali Agung Tour. All Rights Reserved.</p>",
+                    "align": "left"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7ae4051",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "ceab927",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #2",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "027c0f9",
+              "elType": "container",
+              "isInner": true,
+              "settings": {
+                "width": {
+                  "unit": "%",
+                  "size": 31.0
+                },
+                "width_tablet": {
+                  "unit": "%",
+                  "size": 48.0
+                },
+                "width_mobile": {
+                  "unit": "%",
+                  "size": 100.0
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": 20,
+                  "right": 20,
+                  "bottom": 20,
+                  "left": 20
+                },
+                "border_radius": {
+                  "unit": "px",
+                  "top": 8,
+                  "right": 8,
+                  "bottom": 8,
+                  "left": 8
+                },
+                "background_background": "classic"
+              },
+              "elements": [
+                {
+                  "id": "53746fa",
+                  "elType": "widget",
+                  "isInner": false,
+                  "widgetType": "heading",
+                  "settings": {
+                    "title": "Bali Tour Package #3",
+                    "header_size": "h3",
+                    "align": "center",
+                    "align_mobile": "center"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6bf48e8",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "full"
+      },
+      "elements": [
+        {
+          "id": "d88c4fb",
+          "elType": "widget",
+          "isInner": false,
+          "widgetType": "text-editor",
+          "settings": {
+            "editor": "<p>&copy; Bali Agung Tours. All Rights Reserved.</p>",
+            "align": "left"
+          }
+        }
+      ]
+    }
+  ]
+}

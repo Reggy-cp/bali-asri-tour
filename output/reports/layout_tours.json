@@ -1,0 +1,184 @@
+{
+  "url": "https://bali-agung-tours.com/tours",
+  "slug": "tours",
+  "overall_confidence": 0.86,
+  "unsupported_elements_count": 3,
+  "screenshot_path": null,
+  "analyzed_at": 1792250066.151092,
+  "total_sections": 7,
+  "sections": [
+    {
+      "section_type": "navigation",
+      "order": 0,
+      "confidence": 0.95,
+      "html_tag": "header",
+      "classes": [
+        "site-header"
+      ],
+      "id_attr": "",
+      "heading": null,
+      "subheading": null,
+      "content_snippets": [],
+      "images": [],
+      "links": [
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "Tours",
+          "href": "/tours"
+        }
+      ],
+      "unsupported_elements": [],
+      "raw_html": "<header class=\"site-header\">\n<nav><a href=\"/\">Home</a><a href=\"/tours\">Tours</a></nav>\n</header>"
+    },
+    {
+      "section_type": "hero",
+      "order": 1,
+      "confidence": 0.9,
+      "html_tag": "section",
+      "classes": [
+        "elementor-section",
+        "elementor-top-section",
+        "hero-banner"
+      ],
+      "id_attr": "",
+      "heading": "Discover Bali with Local Drivers",
+      "subheading": null,
+      "content_snippets": [
+        "Customized private tours across Bali at best prices."
+      ],
+      "images": [],
+      "links": [
+        {
+          "text": "Explore Tours",
+          "href": "#book"
+        }
+      ],
+      "unsupported_elements": [],
+      "raw_html": "<section class=\"elementor-section elementor-top-section hero-banner\">\n<h1>Discover Bali with Local Drivers</h1>\n<p>Customized private tours across Bali at best prices.</p>\n<a class=\"elementor-button\" href=\"#book\">Explore Tours</a>\n</section>"
+    },
+    {
+      "section_type": "card_grid",
+      "order": 2,
+      "confidence": 0.85,
+      "html_tag": "section",
+      "classes": [
+        "elementor-section",
+        "elementor-top-section",
+        "tour-packages-grid"
+      ],
+      "id_attr": "",
+      "heading": "Popular Day Tours",
+      "subheading": "Ubud Tour",
+      "content_snippets": [
+        "Rice terraces and holy springs.",
+        "Kelingking beach and crystal bay.",
+        "Iconic water temple and sunset."
+      ],
+      "images": [
+        "/img1.jpg",
+        "/img2.jpg",
+        "/img3.jpg"
+      ],
+      "links": [],
+      "unsupported_elements": [],
+      "raw_html": "<section class=\"elementor-section elementor-top-section tour-packages-grid\">\n<h2>Popular Day Tours</h2>\n<div class=\"elementor-row\">\n<div class=\"elementor-column card\">\n<h3>Ubud Tour</h3>\n<p>Rice terraces and holy springs.</p>\n<img src=\"/img1.jpg\"/>\n</div>\n<div class=\"elementor-column card\">\n<h3>Nusa Penida Tour</h3>\n<p>Kelingking beach and crystal bay.</p>\n<img src=\"/img2.jpg\"/>\n</div>\n<div class=\"elementor-column card\">\n<h3>Bedugul &amp; Tanah Lot</h3>\n<p>Iconic water temple and sunset.</p>\n<img src=\"/img3.jpg\"/>\n</div>\n</div>\n</section>"
+    },
+    {
+      "section_type": "gallery",
+      "order": 3,
+      "confidence": 0.8,
+      "html_tag": "section",
+      "classes": [
+        "elementor-section",
+        "elementor-top-section",
+        "gallery-slider"
+      ],
+      "id_attr": "",
+      "heading": "Our Tour Gallery",
+      "subheading": null,
+      "content_snippets": [],
+      "images": [
+        "/g1.jpg",
+        "/g2.jpg",
+        "/g3.jpg",
+        "/g4.jpg",
+        "/g5.jpg"
+      ],
+      "links": [],
+      "unsupported_elements": [],
+      "raw_html": "<section class=\"elementor-section elementor-top-section gallery-slider\">\n<h2>Our Tour Gallery</h2>\n<div class=\"swiper-container\">\n<img src=\"/g1.jpg\"/><img src=\"/g2.jpg\"/><img src=\"/g3.jpg\"/><img src=\"/g4.jpg\"/><img src=\"/g5.jpg\"/>\n</div>\n</section>"
+    },
+    {
+      "section_type": "text_block",
+      "order": 4,
+      "confidence": 0.75,
+      "html_tag": "section",
+      "classes": [
+        "elementor-section",
+        "elementor-top-section",
+        "about-block"
+      ],
+      "id_attr": "",
+      "heading": "Why Choose Bali Agung Tours",
+      "subheading": null,
+      "content_snippets": [
+        "We are a certified Indonesian tour operator with over 10 years experience providing safe and friendly transport.",
+        "All our cars are air-conditioned, clean, and drivers speak fluent English."
+      ],
+      "images": [],
+      "links": [],
+      "unsupported_elements": [],
+      "raw_html": "<section class=\"elementor-section elementor-top-section about-block\">\n<h2>Why Choose Bali Agung Tours</h2>\n<p>We are a certified Indonesian tour operator with over 10 years experience providing safe and friendly transport.</p>\n<p>All our cars are air-conditioned, clean, and drivers speak fluent English.</p>\n</section>"
+    },
+    {
+      "section_type": "call_to_action",
+      "order": 5,
+      "confidence": 0.85,
+      "html_tag": "section",
+      "classes": [
+        "elementor-section",
+        "elementor-top-section",
+        "cta-booking"
+      ],
+      "id_attr": "",
+      "heading": "Book Your Private Driver Today",
+      "subheading": null,
+      "content_snippets": [],
+      "images": [],
+      "links": [
+        {
+          "text": "WhatsApp Us Now",
+          "href": "https://wa.me/62812345678"
+        }
+      ],
+      "unsupported_elements": [
+        "iframe: https://trustindex.io/reviews",
+        "Interactive Web Form (requires Form plugin mapping)",
+        "TripAdvisor / TrustIndex dynamic review widget"
+      ],
+      "raw_html": "<section class=\"elementor-section elementor-top-section cta-booking\">\n<h2>Book Your Private Driver Today</h2>\n<a class=\"button\" href=\"https://wa.me/62812345678\">WhatsApp Us Now</a>\n<form action=\"/submit-inquiry\" method=\"POST\">\n<input name=\"name\" placeholder=\"Your Name\" type=\"text\"/>\n<button type=\"submit\">Submit</button>\n</form>\n<div class=\"trustindex-widget\">\n<iframe src=\"https://trustindex.io/reviews\"></iframe>\n</div>\n</section>"
+    },
+    {
+      "section_type": "footer",
+      "order": 6,
+      "confidence": 0.95,
+      "html_tag": "footer",
+      "classes": [
+        "site-footer"
+      ],
+      "id_attr": "",
+      "heading": null,
+      "subheading": null,
+      "content_snippets": [
+        "\u00a9 2026 Bali Agung Tours. All Rights Reserved."
+      ],
+      "images": [],
+      "links": [],
+      "unsupported_elements": [],
+      "raw_html": "<footer class=\"site-footer\">\n<p>\u00a9 2026 Bali Agung Tours. All Rights Reserved.</p>\n</footer>"
+    }
+  ]
+}

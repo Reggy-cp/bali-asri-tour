@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "target_url": "https://bali-agung-tours.com/",
+  "status": "crawled",
+  "last_crawl_timestamp": 1792234765.3497071,
+  "total_crawled_pages": 2,
+  "pages": [
+    {
+      "url": "https://bali-agung-tours.com/",
+      "final_url": "https://bali-agung-tours.com/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "discovery_source": "seed",
+      "error": null
+    },
+    {
+      "url": "https://bali-agung-tours.com/10-days-9-night-bali-tour-packages-2/",
+      "final_url": "https://bali-agung-tours.com/10-days-9-night-bali-tour-packages-2/",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "discovery_source": "sitemap",
+      "error": null
+    }
+  ],
+  "sitemaps": [
+    "https://bali-agung-tours.com/sitemap_index.xml",
+    "https://bali-agung-tours.com/post-sitemap.xml",
+    "https://bali-agung-tours.com/page-sitemap.xml",
+    "https://bali-agung-tours.com/category-sitemap.xml",
+    "https://bali-agung-tours.com/local-sitemap.xml"
+  ]
+}
