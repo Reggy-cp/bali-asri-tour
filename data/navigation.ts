@@ -40,7 +40,6 @@ export const MAIN_NAVIGATION: NavItem[] = [
         label: 'Bali Tour Package – Honeymoon, Family & Adventure',
         href: '/bali-tour-package/',
         description: 'Complete multi-day holiday packages (3D2N to 10D9N)',
-        badge: 'Popular',
       },
       {
         label: 'Bali Yoga Tours',
@@ -51,13 +50,11 @@ export const MAIN_NAVIGATION: NavItem[] = [
         label: 'Bali Honeymoon Packages',
         href: '/bali-honeymoon-packages/',
         description: 'Romantic villa packages, spa retreats & candlelight dinners',
-        badge: 'Romantic',
       },
       {
         label: 'BALI PROMO',
         href: '/bali-promo/',
         description: 'Seasonal discounts & family holiday promotions',
-        badge: 'Promo',
       },
     ],
   },
@@ -134,7 +131,7 @@ export const CONTACT_INFO = {
 export const SOCIAL_LINKS = {
   facebook: 'https://m.facebook.com/balidaytour/',
   instagram: 'https://www.instagram.com/my_balibuddy/',
-  twitter: 'https://twitter.com/baliagungtours',
+  twitter: 'https://twitter.com/baliasritour',
   googlePlus: 'https://plus.google.com/u/0/+AgungBalibuddy?rel=author',
   tripadvisor: 'http://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html',
 };

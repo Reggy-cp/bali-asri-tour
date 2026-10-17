@@ -1,15 +1,11 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Phone, Mail, MessageCircle, ChevronDown, Heart, Send } from 'lucide-react';
+import { Mail, MessageCircle, Heart } from 'lucide-react';
 import { MAIN_NAVIGATION, CONTACT_INFO } from '@/data/navigation';
 import MobileNavigation from './MobileNavigation';
 
 export default function SiteHeader() {
-  const whatsappUrl = `https://wa.me/${CONTACT_INFO.whatsappNumber}?text=${encodeURIComponent(
-    'Hello Bali Asri Tour, I would like to inquire about booking a tour / car rental.'
-  )}`;
-
   return (
     <header className="sticky top-0 z-40 w-full shadow-md">
       {/* 1. Exact Live Top Bar (Solid Rich Green #308C17) */}
@@ -21,14 +17,14 @@ export default function SiteHeader() {
               href={`https://wa.me/${CONTACT_INFO.whatsappNumber}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-1.5 hover:text-brand-accent transition-colors"
+              className="flex items-center gap-1.5 hover:text-[#FFB200] transition-colors"
             >
               <MessageCircle className="w-3.5 h-3.5 text-[#FFB200] fill-[#FFB200]" />
               <span>+{CONTACT_INFO.whatsappNumber}</span>
             </a>
             <a
               href={`mailto:${CONTACT_INFO.email}`}
-              className="hidden sm:flex items-center gap-1.5 hover:text-brand-accent transition-colors"
+              className="hidden sm:flex items-center gap-1.5 hover:text-[#FFB200] transition-colors"
             >
               <Mail className="w-3.5 h-3.5 text-[#FFB200]" />
               <span>{CONTACT_INFO.email}</span>
@@ -65,40 +61,38 @@ export default function SiteHeader() {
             </span>
           </Link>
 
-          {/* Desktop Navigation Links matching exact casing from user screenshot */}
+          {/* Desktop Navigation Links */}
           <nav className="hidden lg:flex items-center gap-5 xl:gap-7 font-heading font-bold text-sm tracking-wider uppercase text-white flex-nowrap shrink-0" aria-label="Main Navigation">
             {MAIN_NAVIGATION.map((item) => (
-              <div key={item.label} className="relative group whitespace-nowrap">
+              <div key={item.label} className="relative group">
                 {item.children ? (
                   <>
-                    <button
-                      type="button"
-                      className="flex items-center py-2 hover:text-[#FFB200] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white whitespace-nowrap"
-                    >
-                      <span>{item.label}</span>
-                      <span className="text-[10px] ml-1.5 transition-transform duration-200 group-hover:rotate-180 inline-block text-white/90 group-hover:text-[#FFB200]">
+                    <div className="flex items-center gap-1 py-2 cursor-pointer group-hover:text-[#FFB200] transition-colors">
+                      <Link
+                        href={item.href}
+                        className="hover:text-[#FFB200] transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white whitespace-nowrap"
+                      >
+                        {item.label}
+                      </Link>
+                      <span className="text-[10px] transition-transform duration-200 group-hover:rotate-180 inline-block text-white/90 group-hover:text-[#FFB200]">
                         ▾
                       </span>
-                    </button>
+                    </div>
 
-                    {/* Dropdown Menu */}
-                    <div className="absolute top-full left-0 w-72 pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
-                      <div className="p-2 bg-white rounded-xl shadow-xl border border-gray-100 overflow-hidden text-gray-800 normal-case font-body font-medium text-sm">
+                    {/* Dropdown Sub Menu */}
+                    <div className="absolute top-full left-0 pt-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 pointer-events-none group-hover:pointer-events-auto">
+                      {/* Invisible hover bridge to prevent menu from closing when moving cursor */}
+                      <div className="absolute -top-2 left-0 right-0 h-4" />
+
+                      <div className="min-w-[340px] w-max max-w-[440px] p-2 bg-white rounded-xl shadow-2xl border border-gray-100/90 text-gray-800 normal-case font-body text-sm">
                         <div className="space-y-0.5">
                           {item.children.map((child) => (
                             <Link
                               key={child.href}
                               href={child.href}
-                              className="block px-3 py-2 rounded-lg hover:bg-brand-surface-light hover:text-brand-primary transition-colors text-xs sm:text-sm font-medium"
+                              className="flex items-center justify-between px-3.5 py-2.5 rounded-lg text-gray-700 hover:text-[#308C17] hover:bg-[#F4F8F3] transition-colors text-sm font-medium tracking-normal whitespace-nowrap"
                             >
-                              <div className="flex items-center justify-between">
-                                <span>{child.label}</span>
-                                {child.badge && (
-                                  <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-[#59A246]/10 text-[#59A246]">
-                                    {child.badge}
-                                  </span>
-                                )}
-                              </div>
+                              <span>{child.label}</span>
                             </Link>
                           ))}
                         </div>
