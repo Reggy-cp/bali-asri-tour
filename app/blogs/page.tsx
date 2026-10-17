@@ -197,7 +197,7 @@ export default function BlogsPage() {
               </p>
             </div>
             <a
-              href="https://wa.me/6281237897308?text=Hello%20Bali%20Agung%20Tours%2C%20I%20have%20questions%20about%20planning%20my%20trip%20to%20Bali."
+              href="https://wa.me/6281703734836?text=Hello%20Bali%20Asri%20Tour%2C%20I%20have%20questions%20about%20planning%20my%20trip%20to%20Bali."
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3.5 rounded-full font-heading font-bold text-sm uppercase tracking-wider text-gray-900 bg-[#FFB200] hover:bg-[#E09D00] shadow-lg transition-all active:scale-95 shrink-0"

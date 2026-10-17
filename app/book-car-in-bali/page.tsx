@@ -39,11 +39,11 @@ export default function BookCarInBaliPage() {
             <div className="space-y-2 text-sm sm:text-base font-body text-gray-800">
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-[#308C17]" />
-                <a href="tel:+6281237897308" className="hover:underline font-medium">+6281237897308</a>
+                <a href="tel:+62 817-0373-4836" className="hover:underline font-medium">+62 817-0373-4836</a>
               </div>
               <div className="flex items-center gap-2">
                 <MessageCircle className="w-4 h-4 text-[#308C17]" />
-                <a href="https://wa.me/6281237897308" className="hover:underline font-medium">+6281237897308</a>
+                <a href="https://wa.me/6281703734836" className="hover:underline font-medium">+62 817-0373-4836</a>
               </div>
               <div className="flex items-center gap-2">
                 <MessageCircle className="w-4 h-4 text-[#308C17]" />

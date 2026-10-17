@@ -20,7 +20,7 @@ export default function SiteHeader() {
               className="flex items-center gap-1.5 hover:text-[#FFB200] transition-colors"
             >
               <MessageCircle className="w-3.5 h-3.5 text-[#FFB200] fill-[#FFB200]" />
-              <span>+{CONTACT_INFO.whatsappNumber}</span>
+              <span>{CONTACT_INFO.phoneDisplay}</span>
             </a>
             <a
               href={`mailto:${CONTACT_INFO.email}`}

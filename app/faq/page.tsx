@@ -45,7 +45,7 @@ export default function FAQPage() {
     },
     {
       q: 'How can I contact my driver before the tour?',
-      a: 'Via WhatsApp (+62 81237897308), email (info@bali-agung-tours.com), or contact form on our website.',
+      a: 'Via WhatsApp (+62 817-0373-4836), email (agung@bali-agung-tours.com), or contact form on our website.',
     },
     {
       q: 'Do you offer honeymoon or couple packages?',
