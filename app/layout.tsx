@@ -28,7 +28,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL('https://bali-asri-tour.vercel.app'),
   title: {
-    default: 'Bali Asri Tour — Bali Tour Package, Car Hire with Driver & Guides',
+    default: 'Bali Asri Tour',
     template: '%s | Bali Asri Tour',
   },
   description:
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     url: 'https://bali-asri-tour.vercel.app',
     siteName: 'Bali Asri Tour',
-    title: 'Bali Asri Tour — Bali Tour Package, Car Hire with Driver & Guides',
+    title: 'Bali Asri Tour',
     description:
       'Certified local tour operator in Bali. Offering multi-day packages, private car hire from $40/day, and custom day tours.',
     images: [
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Bali Asri Tour — Bali Tour Package & Private Driver',
+    title: 'Bali Asri Tour',
     description: 'Explore Bali with certified local guides and private AC vehicles from $40/day.',
     images: [
       'https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&h=630&q=80',
