@@ -14,7 +14,7 @@ import { FLEET_VEHICLES } from '@/data/fleet';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Book a Car in Bali - Private Fleet Rental | Bali Asri Tour',
+  title: 'Book a Car in Bali - Private Fleet Rental',
   description:
     'Rent a private car with English-speaking local driver in Bali from $40/day. Toyota Avanza, Innova Reborn, HiAce Minibus & Alphard. All-inclusive fuel, AC & flexible 10-hour itineraries.',
 };

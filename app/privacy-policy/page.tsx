@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export const metadata = {
-  title: 'Privacy Policy - Bali Asri Tour',
+  title: 'Privacy Policy',
   description:
     'Your reservation is absolutely secure. Learn how Bali Asri Tour safeguards your personal data and booking information.',
 };

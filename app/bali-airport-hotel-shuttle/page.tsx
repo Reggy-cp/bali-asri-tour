@@ -15,7 +15,7 @@ import {
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Airport & Hotel Shuttle Transfer - Ngurah Rai (DPS) | Bali Asri Tour',
+  title: 'Bali Airport & Hotel Shuttle Transfer - Ngurah Rai (DPS)',
   description:
     'Private Bali airport transfer service 24/7 at Ngurah Rai International Airport (DPS). Meet & greet with name signage, air-conditioned vehicle, luggage assistance, and transparent fixed prices.',
 };

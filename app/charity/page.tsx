@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Charity - Bali Asri Tour',
+  title: 'Charity',
   description:
     'Our social responsibility to Bali environment and Keep Bali Clean program. BALI ASRI TOUR and GBC donating garbage bins and supporting children going to school.',
 };

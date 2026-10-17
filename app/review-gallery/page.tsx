@@ -6,7 +6,7 @@ import { TRIPADVISOR_REVIEWS, GALLERY_IMAGES } from '@/data/tours';
 import { CONTACT_INFO, SOCIAL_LINKS } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Review & Gallery - Bali Asri Tour',
+  title: 'Review & Gallery',
   description:
     'Review & Gallery - Happy Guest : 1000+ guests can\'t be wrong... Rated 5 stars on TripAdvisor for Bali car hire and tours.',
 };

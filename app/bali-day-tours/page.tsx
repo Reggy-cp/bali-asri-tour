@@ -6,7 +6,7 @@ import { getToursByCategory } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Day Tours - Private Driver Sightseeing Itineraries | Bali Asri Tour',
+  title: 'Bali Day Tours - Private Driver Sightseeing Itineraries',
   description:
     '10-Hour customizable private Bali day tours with English-speaking chauffeur. Volcano Kintamani, Ubud rice terraces & swings, Lempuyang Gate of Heaven, and Uluwatu sunsets.',
 };

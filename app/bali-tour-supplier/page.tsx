@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Tour Supplier - Bali Asri Tour',
+  title: 'Bali Tour Supplier',
   description:
     'Established in 2005, Bali Asri Tour is your trusted premier B2B tour supplier and DMC in Bali, offering customizable tour packages, competitive net rates, and 24/7 customer support.',
 };

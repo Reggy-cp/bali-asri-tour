@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'About - Bali Asri Tour',
+  title: 'About',
   description:
     'Welcome to Bali Asri Tour site, trusted and reliable Bali Personal Drivers and Guides since 2005. Awarded certificate of excellence for providing Bali tour packages on Tripadvisor.',
 };

@@ -6,7 +6,7 @@ import { getToursByCategory } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Honeymoon Packages - Romantic Villa & Couples Holidays | Bali Asri Tour',
+  title: 'Bali Honeymoon Packages - Romantic Villa & Couples Holidays',
   description:
     'Celebrate love in Bali with our romantic honeymoon packages. Includes private pool villas, floating breakfasts, candlelit beach dinners in Jimbaran, and relaxing couples spa massages.',
 };

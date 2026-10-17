@@ -6,7 +6,7 @@ import { getAllTours } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Tour Promo Packages - Special Holiday Offers | Bali Asri Tour',
+  title: 'Bali Tour Promo Packages - Special Holiday Offers',
   description:
     'Exclusive limited-time promotional tour packages and discount car rental deals in Bali. Save up to 25% on combined family adventures, private driver hire, and multi-day circuits.',
 };

@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Our Team - Bali Asri Tour',
+  title: 'Our Team',
   description:
     'Bali Asri Tour is Team of local Balinese with Global mindset, dedicated to giving true Balinese Hospitality to travelers visiting Bali Island.',
 };

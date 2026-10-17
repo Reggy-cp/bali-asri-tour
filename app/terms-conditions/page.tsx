@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Terms & Conditions - Bali Asri Tour',
+  title: 'Terms & Conditions',
   description:
     'Terms and conditions for Bali tour packages, car hire, payment policies, cancellation guidelines, and legal jurisdiction by Bali Asri Tour.',
 };

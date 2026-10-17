@@ -6,7 +6,7 @@ import { getAllTours } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Yoga Tours & Spiritual Healing Retreats | Bali Asri Tour',
+  title: 'Bali Yoga Tours & Spiritual Healing Retreats',
   description:
     'Experience traditional Balinese holy spring water purification (Melukat), yoga in Ubud jungle shalas, sound healing, and consultations with authentic Balinese healers.',
 };

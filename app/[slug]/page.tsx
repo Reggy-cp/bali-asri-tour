@@ -35,17 +35,17 @@ export async function generateMetadata({ params }: Props) {
     const blog = getBlogPostBySlug(slug);
     if (blog) {
       return {
-        title: `${blog.title} | Bali Asri Tour`,
+        title: blog.title,
         description: blog.excerpt,
       };
     }
     return {
-      title: 'Tour Not Found | Bali Asri Tour',
+      title: 'Tour Not Found',
     };
   }
 
   return {
-    title: `${tour.title} | Bali Asri Tour`,
+    title: tour.title,
     description: tour.description,
   };
 }

@@ -5,7 +5,7 @@ import { ChevronRight, Calendar, User, Clock, ArrowRight, Tag, BookOpen } from '
 import { getAllBlogPosts } from '@/data/tours';
 
 export const metadata = {
-  title: 'Blogs & Bali Travel Tips 2026 - Bali Asri Tour',
+  title: 'Blogs & Bali Travel Tips 2026',
   description:
     'Read insider Bali travel guides, Visa on Arrival (e-VoA) requirements, itinerary planning tips, and cultural etiquette from licensed Balinese tour experts.',
 };

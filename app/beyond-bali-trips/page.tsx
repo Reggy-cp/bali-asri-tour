@@ -6,7 +6,7 @@ import { getAllTours } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Beyond Bali Trips - Nusa Penida, Gili Islands & Komodo | Bali Asri Tour',
+  title: 'Beyond Bali Trips - Nusa Penida, Gili Islands & Komodo',
   description:
     'Venture beyond mainland Bali with fast boat excursions to West & East Nusa Penida, Gili Trawangan white sand beaches, and Komodo National Park dragon adventures.',
 };

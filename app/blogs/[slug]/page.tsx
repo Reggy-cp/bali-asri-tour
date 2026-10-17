@@ -20,12 +20,12 @@ export async function generateMetadata({ params }: Props) {
 
   if (!blog) {
     return {
-      title: 'Blog Article Not Found | Bali Asri Tour',
+      title: 'Blog Article Not Found',
     };
   }
 
   return {
-    title: `${blog.title} | Bali Asri Tour`,
+    title: blog.title,
     description: blog.excerpt,
   };
 }

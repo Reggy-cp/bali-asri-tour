@@ -6,7 +6,7 @@ import { getToursByCategory } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Tour Package – Honeymoon, Family & Adventure Holiday Packages | Bali Asri Tour',
+  title: 'Bali Tour Package – Honeymoon, Family & Adventure Holiday Packages',
   description:
     'Complete Bali holiday packages from 3 Days to 10 Days. Inclusive private car with chauffeur, hand-picked hotels/villas, temple entries, Nusa Penida fast boats, and 24/7 concierge.',
 };

@@ -6,7 +6,7 @@ import { getToursByCategory } from '@/data/tours';
 import { CONTACT_INFO } from '@/data/navigation';
 
 export const metadata = {
-  title: 'Bali Experience Tours - ATV Quad Biking, Rafting & Jungle Swings | Bali Asri Tour',
+  title: 'Bali Experience Tours - ATV Quad Biking, Rafting & Jungle Swings',
   description:
     'Experience the best adventures in Bali: Mount Batur sunrise hiking, 2-hour ATV quad biking through cave tunnels, Ayung river rafting, and extreme jungle swings in Ubud.',
 };

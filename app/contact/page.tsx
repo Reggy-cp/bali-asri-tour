@@ -6,7 +6,7 @@ import { CONTACT_INFO } from '@/data/navigation';
 import ContactForm from '@/components/forms/ContactForm';
 
 export const metadata = {
-  title: 'Contact - Bali Asri Tour',
+  title: 'Contact',
   description:
     'Get in Touch with Bali Asri Tour! Let’s plan your Bali journey with us. Truly Balinese Hospitality.',
 };
