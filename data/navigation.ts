@@ -37,7 +37,7 @@ export const MAIN_NAVIGATION: NavItem[] = [
         description: 'ATV quad biking, white water rafting & jungle swings',
       },
       {
-        label: 'Bali Tour Package – Honeymoon, Family & Adventure',
+        label: 'Bali Tour Packages',
         href: '/bali-tour-package/',
         description: 'Complete multi-day holiday packages (3D2N to 10D9N)',
       },

@@ -8,10 +8,10 @@ import MobileNavigation from './MobileNavigation';
 export default function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 w-full shadow-md">
-      {/* 1. Exact Live Top Bar (Solid Rich Green #308C17) */}
+      {/* 1. Top Bar (Solid Rich Green #308C17) */}
       <div className="bg-[#308C17] text-white text-xs py-2 px-4 border-b border-black/10">
         <div className="max-w-boxed mx-auto flex items-center justify-between gap-4">
-          {/* Left: Contact Info with Golden Yellow Icons */}
+          {/* Left: Contact Info */}
           <div className="flex items-center gap-5 text-xs font-medium">
             <a
               href={`https://wa.me/${CONTACT_INFO.whatsappNumber}`}
@@ -31,7 +31,7 @@ export default function SiteHeader() {
             </a>
           </div>
 
-          {/* Right: Exact Live Promotional Tagline */}
+          {/* Right: Promotional Tagline */}
           <div className="flex items-center gap-1.5 text-xs text-white/95 font-medium ml-auto">
             <Heart className="w-3.5 h-3.5 text-[#FFB200] shrink-0" />
             <span className="hidden md:inline">Special Offer &amp; Budget Friendly, Book the Experience Now!!</span>
@@ -40,7 +40,7 @@ export default function SiteHeader() {
         </div>
       </div>
 
-      {/* 2. Exact Live Main Navbar (Solid Green #59A246 with matching typography) */}
+      {/* 2. Main Navbar (Solid Green #59A246 with matching typography) */}
       <div className="bg-[#59A246] text-white">
         <div className="max-w-wide mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4 flex-nowrap">
           {/* Brand Logo */}
@@ -84,13 +84,13 @@ export default function SiteHeader() {
                       {/* Invisible hover bridge to prevent menu from closing when moving cursor */}
                       <div className="absolute -top-2 left-0 right-0 h-4" />
 
-                      <div className="min-w-[340px] w-max max-w-[440px] p-2 bg-white rounded-xl shadow-2xl border border-gray-100/90 text-gray-800 normal-case font-body text-sm">
-                        <div className="space-y-0.5">
+                      <div className="min-w-[270px] w-auto bg-white rounded-xl shadow-2xl border border-gray-100/90 text-gray-800 normal-case font-body text-sm overflow-hidden">
+                        <div className="py-1.5">
                           {item.children.map((child) => (
                             <Link
                               key={child.href}
                               href={child.href}
-                              className="flex items-center justify-between px-3.5 py-2.5 rounded-lg text-gray-700 hover:text-[#308C17] hover:bg-[#F4F8F3] transition-colors text-sm font-medium tracking-normal whitespace-nowrap"
+                              className="flex items-center px-4 py-2.5 text-gray-700 hover:text-[#308C17] hover:bg-[#F4F8F3] transition-colors text-sm font-medium tracking-normal whitespace-nowrap"
                             >
                               <span>{child.label}</span>
                             </Link>

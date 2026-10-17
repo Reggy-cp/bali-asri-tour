@@ -112,19 +112,7 @@ export default function MobileNavigation() {
                           onClick={closeMenu}
                           className="block py-2 text-sm text-gray-700 hover:text-brand-primary hover:translate-x-1 transition-all"
                         >
-                          <div className="flex items-center gap-2">
-                            <span>{child.label}</span>
-                            {child.badge && (
-                              <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-brand-primary/10 text-brand-primary">
-                                {child.badge}
-                              </span>
-                            )}
-                          </div>
-                          {child.description && (
-                            <p className="text-xs text-gray-500 mt-0.5 line-clamp-1">
-                              {child.description}
-                            </p>
-                          )}
+                          <span>{child.label}</span>
                         </Link>
                       ))}
                     </div>
