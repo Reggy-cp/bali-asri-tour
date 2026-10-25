@@ -2665,6 +2665,164 @@ export const POPULAR_TOURS: TourPackage[] = [
       "Personal expenses",
       "Tips for driver and instructor"
     ]
+  },
+  {
+    "id": "8d7n-enchanting-bali-escape-from-breathtaking-cliffs-to-hidden-paradises",
+    "slug": "8d7n-enchanting-bali-escape-from-breathtaking-cliffs-to-hidden-paradises",
+    "title": "8D7N Enchanting Bali Escape: From Breathtaking Cliffs to Hidden Paradises",
+    "duration": "8 Days 7 Nights",
+    "durationDays": 8,
+    "category": "honeymoon",
+    "priceUSD": 905,
+    "priceNote": "USD 905 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 1310 },
+      { "label": "2-3 Traveler", "priceUSD": 905 },
+      { "label": "4-6 Traveler", "priceUSD": 660 },
+      { "label": "7-10 Traveler", "priceUSD": 600 },
+      { "label": "11-14 Traveler", "priceUSD": 570 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 68,
+    "image": "/images/tours/honeymoon-8d7n-bali-hai.webp",
+    "highlights": [
+      "Luxury Bali Hai sunset dinner cruise with live cabaret show & international buffet",
+      "Romantic cliffside Uluwatu Temple & candlelit Jimbaran Bay seafood dinner",
+      "Bedugul floating lake temple & UNESCO Jatiluwih rice terraces",
+      "Ubud jungle swings, coffee plantation, & Kintamani volcano panorama",
+      "Full-day Nusa Penida island adventure (Kelingking Cliff, Broken Beach & Angel's Billabong)",
+      "Lempuyang Gate of Heaven & Tirta Gangga royal water palace Instagram trail"
+    ],
+    "description": "Embark on an unforgettable 8 Days 7 Nights romantic journey through Bali. From luxury sunset dinner cruises on Bali Hai II and cliffside temples to the turquoise seas of Nusa Penida and serene mountain highlands.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "Day 1: Arrival in Bali – Warm flower garland airport welcome & private hotel transfer",
+      "Day 2: GWK Cultural Park, Cliffside Uluwatu Temple & Bali Hai Luxury Sunset Dinner Cruise",
+      "Day 3: Bedugul Highlands – Ulun Danu Floating Temple, UNESCO Jatiluwih & Tanah Lot Sunset",
+      "Day 4: Ubud & Kintamani – Celuk Silver Village, Aloha Jungle Swing, Volcano Buffet & Tirta Empul",
+      "Day 5: Nusa Penida Island Trip – Fast boat transfer, Kelingking Cliff, Broken Beach & Crystal Bay",
+      "Day 6: East Bali Instagram Trail – Lempuyang Gate of Heaven & Tirta Gangga Water Palace",
+      "Day 7: Leisure & Spa Day – Free leisure time for shopping or couple's relaxation",
+      "Day 8: Departure – Souvenir hunt at Krisna Oleh-Oleh & comfortable airport drop-off"
+    ],
+    "included": [
+      "7 nights accommodation in romantic hotel or resort with daily breakfast",
+      "Private air-conditioned vehicle with dedicated English-speaking chauffeur-guide",
+      "Bali Hai II luxury sunset dinner cruise ticket with buffet & live entertainment",
+      "Romantic candlelight seafood dinner on the beach at Jimbaran Bay",
+      "Round-trip fast boat tickets and private island transport in Nusa Penida",
+      "All temple entrance tickets, parking fees, and sarong rentals",
+      "Complimentary chilled mineral water throughout all daily tours"
+    ],
+    "excluded": [
+      "Flight tickets & Bali tourist levy",
+      "Lunches not stated in itinerary",
+      "Personal expenses & gratuities"
+    ]
+  },
+  {
+    "id": "7d-6n-enchanting-bali-honeymoon-romance-adventure-serenity",
+    "slug": "7d-6n-enchanting-bali-honeymoon-romance-adventure-serenity",
+    "title": "7D6N Enchanting Bali Honeymoon: Romance, Adventure and Serenity",
+    "duration": "7 Days 6 Nights",
+    "durationDays": 7,
+    "category": "honeymoon",
+    "priceUSD": 750,
+    "priceNote": "USD 750 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 1005 },
+      { "label": "2-3 Traveler", "priceUSD": 750 },
+      { "label": "4-6 Traveler", "priceUSD": 655 },
+      { "label": "7-10 Traveler", "priceUSD": 594 },
+      { "label": "11-14 Traveler", "priceUSD": 560 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 84,
+    "image": "/images/tours/honeymoon-7d6n-tirta-gangga.webp",
+    "highlights": [
+      "Majestic landmarks: GWK Cultural Park, Uluwatu cliff temple, and Tanah Lot",
+      "Romantic sunset seafood dinner by the waves on Jimbaran Beach",
+      "Ubud cultural discoveries, Aloha extreme jungle swings, & Mount Batur volcano",
+      "Full day Nusa Penida paradise exploration (Kelingking & Angel's Billabong)",
+      "Lempuyang Gate of Heaven & Tirta Gangga royal water palace"
+    ],
+    "description": "Embark on a 7-day romantic getaway through Bali where breathtaking sunsets, cultural wonders, and exotic island adventures await. Specially crafted for honeymooners seeking romance, adventure, and serenity.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "Day 1: Arrival in Bali – Meet & greet at Bali Airport with flower garland & hotel transfer",
+      "Day 2: Bedugul Scenic Tour – Taman Ayun, Lake Beratan Floating Temple & Tanah Lot",
+      "Day 3: South Bali Romance – GWK Landmark, Melasti White Beach, Uluwatu & Jimbaran Candlelit Dinner",
+      "Day 4: Ubud & Kintamani – Celuk Village, Aloha Jungle Swings, Kintamani Volcano & Tirta Empul",
+      "Day 5: Exotic Nusa Penida Island – Speedboat cruise, Kelingking T-Rex Cliff, Broken Beach & Snorkeling",
+      "Day 6: Bali Instagram Trail – Lempuyang Gate of Heaven, Tirta Gangga & Tukad Cepung Waterfall",
+      "Day 7: Departure – Relaxed morning, souvenir shopping, and timely airport transfer"
+    ],
+    "included": [
+      "6 nights accommodation with daily breakfast",
+      "Private AC car with English-speaking chauffeur-guide",
+      "Romantic candlelight beach dinner at Jimbaran Bay",
+      "Return fast boat tickets and private tour in Nusa Penida",
+      "All entrance fees to temples, waterfalls, and cultural sites",
+      "Bottled mineral water during all tours"
+    ],
+    "excluded": [
+      "Airfare & travel insurance",
+      "Lunches and dinners not listed",
+      "Personal expenses & tipping"
+    ]
+  },
+  {
+    "id": "romantic-escape-the-ultimate-honeymoon-6d-5n-package-in-bali",
+    "slug": "romantic-escape-the-ultimate-honeymoon-6d-5n-package-in-bali",
+    "title": "Romantic Escape: The Ultimate Honeymoon 6D/5N Package in Bali",
+    "duration": "6 Days 5 Nights",
+    "durationDays": 6,
+    "category": "honeymoon",
+    "priceUSD": 630,
+    "priceNote": "USD 630 / Pax (2-3 Traveler, Starts from $465/Pax)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 855 },
+      { "label": "2-3 Traveler", "priceUSD": 630 },
+      { "label": "4-6 Traveler", "priceUSD": 555 },
+      { "label": "7-10 Traveler", "priceUSD": 499 },
+      { "label": "11-14 Traveler", "priceUSD": 465 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 95,
+    "image": "/images/tours/honeymoon-6d5n-kelingking.jpg",
+    "highlights": [
+      "Warm flower garland welcome upon arrival at Ngurah Rai International Airport",
+      "Romantic beachside candlelit seafood dinner under the stars at Jimbaran Bay",
+      "Aloha Ubud extreme jungle swings overlooking scenic river valley",
+      "Full-day Nusa Penida Island excursion: Kelingking Beach, Broken Beach & Angel's Billabong",
+      "Lempuyang Gate of Heaven & Tirta Gangga stepping stone palace"
+    ],
+    "description": "Embark on an exclusive 6 Days 5 Nights Honeymoon Package in Bali. Carefully curated to blend romance, natural wonders, and cultural beauty for couples beginning their journey together.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "Day 1: Welcome to Bali – Flower garland airport greeting & private resort transfer",
+      "Day 2: South Bali Splendor – GWK Landmark, Melasti Beach, Uluwatu Cliff Temple & Jimbaran Sunset Dinner",
+      "Day 3: Ubud Culture & Volcano – Celuk Gold & Silver, Aloha Swings, Kintamani View & Tegalalang",
+      "Day 4: Nusa Penida Island Escape – Fast boat crossing, Kelingking Cliff, Angel's Billabong & Crystal Bay",
+      "Day 5: East Bali Instagram Trail – Lempuyang Gate of Heaven, Tirta Gangga & Virgin Beach",
+      "Day 6: Sweet Farewell – Leisure morning, local handicraft market & airport departure transfer"
+    ],
+    "included": [
+      "5 nights romantic hotel or villa stay with daily breakfast",
+      "Private transport in modern air-conditioned vehicle with driver-guide",
+      "Candlelight seafood dinner on Jimbaran Beach",
+      "Nusa Penida return speed boat tickets & island transport",
+      "Admission tickets to GWK, Uluwatu, Lempuyang, and Tirta Gangga",
+      "Chilled bottled mineral water"
+    ],
+    "excluded": [
+      "Flights & visa fees",
+      "Optional swing upgrades",
+      "Personal purchases & driver tips"
+    ]
   }
 ];
 
