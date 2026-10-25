@@ -47,7 +47,7 @@ export default function BookCarInBaliPage() {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-[#308C17]" />
-                <a href="mailto:agung@bali-agung-tours.com" className="hover:underline font-medium">agung@bali-agung-tours.com</a>
+                <a href={`mailto:${CONTACT_INFO.email}`} className="hover:underline font-medium">{CONTACT_INFO.email}</a>
               </div>
             </div>
           </div>

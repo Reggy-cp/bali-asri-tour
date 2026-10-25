@@ -64,7 +64,7 @@ Eliminating obsolete domain references, repairing the car rental navigation flow
 
 ### 2.1 Purge Residual Legacy Domain References
 - [ ] **Fix Social Share Buttons**: Update `app/[slug]/page.tsx` and `BlogPostDetail.tsx` from `https://bali-agung-tours.com/...` to `https://bali-asri-tour.vercel.app/${slug}/`.
-- [ ] **Update Contact Email**: Change `agung@bali-agung-tours.com` and `info@bali-agung-tours.com` in `data/navigation.ts` and pages (`about`, `supplier`, `terms`, `privacy`, `faq`) to a consistent domain email (or update tests asserting this value).
+- [x] **Update Contact Email**: Change `agung@bali-agung-tours.com` and `info@bali-agung-tours.com` in `data/navigation.ts` and pages (`about`, `supplier`, `terms`, `privacy`, `faq`) to `info@baliasritour.com` and updated test assertions.
 - [ ] **Remove Defunct Google+ Links**:
   - Delete `googlePlus` property from `data/navigation.ts`.
   - Remove dead `G+` anchor link (`https://plus.google.com`) in `SiteFooter.tsx`.

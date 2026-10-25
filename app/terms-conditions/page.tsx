@@ -38,7 +38,7 @@ export default function TermsConditionsPage() {
               </li>
               <li>
                 We offer special price for group booking and up to 20% off for bali actvites booking. For inquiry drop us email at{' '}
-                <a href="mailto:agung@bali-agung-tours.com" className="text-[#308C17] hover:underline font-medium">agung@bali-agung-tours.com</a> or Text (WA){' '}
+                <a href="mailto:info@baliasritour.com" className="text-[#308C17] hover:underline font-medium">info@baliasritour.com</a> or Text (WA){' '}
                 <a href="https://wa.me/6281703734836" className="text-[#308C17] hover:underline font-medium">+62 817-0373-4836</a> (24 hours)
               </li>
             </ul>

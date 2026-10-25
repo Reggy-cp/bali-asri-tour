@@ -119,7 +119,7 @@ export const CONTACT_INFO = {
   phoneDisplay: '+62 817-0373-4836',
   phoneCall: '+6281703734836',
   whatsappNumber: '6281703734836',
-  email: 'agung@bali-agung-tours.com',
+  email: 'info@baliasritour.com',
   workingHours: 'Open Daily 24 Hours / 7 Days',
   tripadvisorRating: '5.0',
   tripadvisorReviewsCount: '1,450+',

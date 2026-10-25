@@ -94,8 +94,8 @@ export default function AboutPage() {
           </div>
           <div>
             <strong>Email:</strong>{' '}
-            <a href="mailto:info@bali-agung-tours.com" className="text-[#308C17] hover:underline">
-              info@bali-agung-tours.com
+            <a href={`mailto:${CONTACT_INFO.email}`} className="text-[#308C17] hover:underline">
+              {CONTACT_INFO.email}
             </a>
           </div>
           <div>

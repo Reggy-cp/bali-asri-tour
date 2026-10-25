@@ -45,8 +45,8 @@ export default function PrivacyPolicyPage() {
 
           <p>
             www.bali-agung-tours.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Please contact us via e-mail at{' '}
-            <a href="mailto:info@bali-agung-tours.com" className="text-[#308C17] hover:underline font-medium">
-              info@bali-agung-tours.com
+            <a href="mailto:info@baliasritour.com" className="text-[#308C17] hover:underline font-medium">
+              info@baliasritour.com
             </a>{' '}
             if you have any questions or concerns about our Privacy Policy.
           </p>
