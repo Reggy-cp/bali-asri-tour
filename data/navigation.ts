@@ -87,11 +87,6 @@ export const MAIN_NAVIGATION: NavItem[] = [
         description: 'Booking policies, payment on arrival & free cancellation',
       },
       {
-        label: 'Blogs & Travel Tips',
-        href: '/blogs/',
-        description: 'Bali Visa on Arrival, destination guides & tips',
-      },
-      {
         label: 'Charity',
         href: '/charity/',
         description: 'Community initiatives supporting Balinese orphanages',

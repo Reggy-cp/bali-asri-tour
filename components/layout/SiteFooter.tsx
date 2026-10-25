@@ -5,7 +5,6 @@ import {
   Phone,
   Mail,
   MessageCircle,
-  Send,
   Facebook,
   Instagram,
   Twitter,
@@ -13,26 +12,6 @@ import {
 import { CONTACT_INFO, SOCIAL_LINKS } from '@/data/navigation';
 
 export default function SiteFooter() {
-  const footerBlogs = [
-    {
-      id: 'visa-2026',
-      title: 'Bali Visa on Arrival 2026: Fee Hike & E-VoA Guide',
-      slug: 'bali-visa-on-arrival-2026',
-      image: '/images/footer/blog-visa.webp',
-    },
-    {
-      id: 'hyderabad-tour',
-      title: 'Bali Trip Package from Hyderabad: Ditch the Bus Tour',
-      slug: 'bali-trip-package-from-hyderabad',
-      image: '/images/footer/blog-hyderabad.png',
-    },
-    {
-      id: 'asita-member',
-      title: 'Bali Asri Tour Officially Recognized as an ASITA Member',
-      slug: 'bali-agung-tours-asita-member',
-      image: '/images/footer/blog-asita.webp',
-    },
-  ];
 
   return (
     <footer className="w-full">
@@ -135,15 +114,6 @@ export default function SiteFooter() {
                   <Twitter className="w-4 h-4 fill-current" />
                 </a>
                 <a
-                  href="https://plus.google.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Google Plus"
-                  className="hover:text-white transition-colors font-bold text-xs"
-                >
-                  G+
-                </a>
-                <a
                   href={SOCIAL_LINKS.tripadvisor}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -161,43 +131,48 @@ export default function SiteFooter() {
               </div>
             </div>
 
-            {/* Column 2: Blogs & Travel Tips with 3 Article Thumbnails (md:col-span-5) */}
+            {/* Column 2: Quick Links (md:col-span-5) */}
             <div className="md:col-span-5 space-y-4">
               <h3 className="font-heading font-bold text-lg sm:text-xl text-white">
-                Blogs &amp; Travel Tips
+                Quick Links
               </h3>
 
-              <div className="grid grid-cols-3 gap-3">
-                {footerBlogs.map((blog) => (
-                  <Link
-                    key={blog.id}
-                    href={`/blogs/${blog.slug}/`}
-                    className="group block"
-                  >
-                    <div className="relative aspect-[16/9] w-full rounded-md overflow-hidden mb-2 bg-[#2d7316] shadow-sm">
-                      <Image
-                        src={blog.image}
-                        alt={blog.title}
-                        fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-300"
-                        sizes="(max-width: 768px) 33vw, 150px"
-                      />
-                    </div>
-                    <h4 className="text-[11px] sm:text-xs font-normal text-white/95 leading-tight line-clamp-4 group-hover:text-[#FFB200] transition-colors">
-                      {blog.title}
-                    </h4>
-                  </Link>
-                ))}
-              </div>
-
-              {/* More Blogs Golden Pill Button */}
-              <div className="pt-2">
-                <Link
-                  href="/blogs/"
-                  className="inline-flex items-center gap-2 px-5 py-2 rounded-full font-heading font-bold text-xs text-black bg-[#FFB200] hover:bg-[#E09D00] shadow-md transition-all active:scale-95"
-                >
-                  <span>More Blogs</span>
-                  <Send className="w-3.5 h-3.5 fill-black" />
+              <div className="grid grid-cols-2 gap-x-4 gap-y-2.5 text-xs sm:text-sm text-white/90 font-medium font-body">
+                <Link href="/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Home
+                </Link>
+                <Link href="/about/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> About Us
+                </Link>
+                <Link href="/bali-day-tours/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Bali Day Tours
+                </Link>
+                <Link href="/bali-tour-package/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Tour Packages
+                </Link>
+                <Link href="/bali-honeymoon-packages/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Honeymoon Packages
+                </Link>
+                <Link href="/bali-yoga-tours/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Bali Yoga Tours
+                </Link>
+                <Link href="/book-a-car/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Book A Car
+                </Link>
+                <Link href="/bali-airport-hotel-shuttle/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Airport Shuttle
+                </Link>
+                <Link href="/review-gallery/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Review &amp; Gallery
+                </Link>
+                <Link href="/contact/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Contact Us
+                </Link>
+                <Link href="/terms-conditions/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Terms &amp; Conditions
+                </Link>
+                <Link href="/privacy-policy/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Privacy Policy
                 </Link>
               </div>
             </div>

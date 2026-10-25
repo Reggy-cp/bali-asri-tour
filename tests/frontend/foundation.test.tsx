@@ -28,9 +28,9 @@ describe('Foundation Navigation & Metadata', () => {
     expect(screen.getAllByText(/CONTACT/i).length).toBeGreaterThan(0);
   });
 
-  it('renders SiteFooter with contact info, blogs, and copyright', () => {
+  it('renders SiteFooter with contact info, quick links, and copyright', () => {
     render(<SiteFooter />);
-    expect(screen.getByText(/Blogs & Travel Tips/i)).toBeInTheDocument();
+    expect(screen.getByText(/Quick Links/i)).toBeInTheDocument();
     expect(screen.getByText(/We Accept/i)).toBeInTheDocument();
     expect(screen.getByText(/All rights reserved/i)).toBeInTheDocument();
   });
