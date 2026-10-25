@@ -434,7 +434,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 360,
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tour-nusa-penida.jpg",
     "highlights": [
       "The Classic Bali Getaway: Perfect 5-day holiday exploring South beaches, Ubud rainforest, and Kintamani volcano.",
       "Ubud Monkey Forest: Walk among ancient banyan trees and hundreds of friendly grey long-tailed macaques.",
@@ -985,7 +985,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 340,
-    "image": "/images/tour-ubud-swing.jpg",
+    "image": "/images/tours/atv-quad-bike.jpg",
     "highlights": [
       "2-Hour Extreme ATV Quad Biking: Ride through jungle trails, muddy tracks, riverbeds, and a natural cave tunnel.",
       "Sacred Melukat Ritual: Authentic Balinese holy water purification ceremony at Sebatu or Tirta Empul Temple.",
@@ -1052,7 +1052,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 190,
-    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/silver-making-class.jpg",
     "highlights": [
       "Hands-On Artisan Workshop: Learn the ancestral silversmith techniques in Celuk Village, Bali\u2019s jewelry capital.",
       "7 Grams of Solid Silver Included: Design and craft your own custom ring, pendant, earrings, or bracelet.",
@@ -1117,7 +1117,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 260,
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/cooking-class.jpg",
     "highlights": [
       "Traditional Morning Market Tour: Discover exotic tropical vegetables, herbs, and spices with your chef.",
       "Authentic Family Compound: Cook inside a real Balinese house compound amidst tropical gardens.",
@@ -1251,7 +1251,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 380,
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/manta-bay-snorkeling.jpg",
     "highlights": [
       "3-Spot Snorkeling: Swim alongside majestic Manta Rays at Manta Bay, plus Crystal Bay and Mangrove Point.",
       "Fast Boat Roundtrip: High-speed passenger boat transfer from Sanur harbor to Nusa Lembongan.",
@@ -1319,7 +1319,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 310,
-    "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/waterfall-lovers.jpg",
     "highlights": [
       "Bali\u2019s Top 3 Waterfalls: Tukad Cepung hidden cave, Tibumana curtain cascade, and Kanto Lampo stepped rocks.",
       "Magical Cave Sunbeams: Marvel at morning sunlight pouring through the open ceiling of Tukad Cepung canyon.",
@@ -1384,7 +1384,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 350,
-    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/lovina-dolphins.jpg",
     "highlights": [
       "Lovina Wild Dolphin Encounter: Sunrise cruise on a traditional outrigger boat to observe spinner dolphins in the wild.",
       "Swim with Dolphins: Put on a snorkel and hold onto the boat's side pontoon to glide alongside dolphins underwater.",
@@ -1452,7 +1452,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 395,
-    "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/watersports-tanjung-benoa.jpg",
     "highlights": [
       "Tanjung Benoa Watersports: Banana boat ride included, with options for parasailing, jet skiing, and sea walking.",
       "Padang Padang or Melasti Beach: Relax on golden sands surrounded by dramatic limestone cliffs.",
@@ -1708,7 +1708,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 290,
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/orangutan-breakfast.jpg",
     "highlights": [
       "Breakfast with Orangutans: Savor a gourmet breakfast buffet in close proximity to gentle, playful orangutans.",
       "Ayung River Rafting: 2 hours of exhilarating white water rafting through rainforest ravines and hidden waterfalls.",
@@ -1774,7 +1774,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 230,
-    "image": "/images/tour-ubud-swing.jpg",
+    "image": "/images/tours/white-water-rafting.jpg",
     "highlights": [
       "Traditional Barong & Keris Dance: Watch the epic mythological battle between Good (Barong) and Evil (Rangda).",
       "Artisan Villages: Visit Celuk (silver) and Mas (master woodcarvers).",
@@ -1837,7 +1837,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 380,
-    "image": "/images/tour-ubud-swing.jpg",
+    "image": "/images/tours/atv-rice-terraces.jpg",
     "highlights": [
       "2-Hour Jungle ATV Quad Ride: Conquer bamboo forests, riverbeds, muddy puddles, and cave tunnels.",
       "Tegalalang Rice Terraces: Explore Bali\u2019s most famous terraced valley with panoramic viewpoints.",
@@ -1904,7 +1904,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 340,
-    "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/white-water-rafting.jpg",
     "highlights": [
       "Ayung River Rafting: 12 km journey across class II & III rapids with river gorge stone carvings.",
       "Sacred Monkey Forest: Wander through ancient temple grounds populated by friendly macaques.",
@@ -2036,7 +2036,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.8,
     "reviewCount": 165,
-    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/ubud-culture-show.jpg",
     "highlights": [
       "Campuhan Ridge Sunset Walk: Sunset stroll along Ubud\u2019s most photogenic ridge trail between tropical valleys.",
       "Ubud Palace Legong Dance: Front-row seats to an authentic classical Legong or Fire Dance performance.",
@@ -2097,7 +2097,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.8,
     "reviewCount": 220,
-    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/bali-bird-park.jpg",
     "highlights": [
       "Over 1,000 Exotic Birds: Discover 250 species of birds from Indonesia, Africa, South America, and Papua.",
       "Rare Bali Starling: See the endangered Bali Myna (Jalak Bali), the island\u2019s official emblem bird.",
@@ -2159,7 +2159,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 310,
-    "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/ubud-monkey-forest.jpg",
     "highlights": [
       "Authentic Craft Villages: Tohpati (batik weaving), Celuk (silver/gold), Batuan (fine painting), and Mas (woodcarving).",
       "Goa Gajah Elephant Cave: Ancient 9th-century meditation sanctuary carved into a rock face.",
