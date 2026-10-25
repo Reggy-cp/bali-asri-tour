@@ -126,7 +126,7 @@ export default function BaliTourSupplierPage() {
             <div className="space-y-1 text-sm text-gray-800">
               <p><strong>Website:</strong> <Link href="/" className="text-[#308C17] hover:underline">www.bali-agung-tours.com</Link></p>
               <p><strong>Email:</strong> <a href="mailto:info@bali-agung-tours.com" className="text-[#308C17] hover:underline">info@bali-agung-tours.com</a></p>
-              <p><strong>Phone:</strong> <a href="tel:+628174108800" className="text-[#308C17] hover:underline">+628174108800</a></p>
+              <p><strong>Phone:</strong> <a href="tel:+6281703734836" className="text-[#308C17] hover:underline">+62 817-0373-4836</a></p>
             </div>
           </div>
         </div>

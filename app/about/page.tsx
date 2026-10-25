@@ -100,8 +100,8 @@ export default function AboutPage() {
           </div>
           <div>
             <strong>Phone:</strong>{' '}
-            <a href={`tel:${CONTACT_INFO.phoneSecondary}`} className="text-[#308C17] hover:underline">
-              {CONTACT_INFO.phoneSecondary}
+            <a href={`tel:${CONTACT_INFO.phoneCall}`} className="text-[#308C17] hover:underline">
+              {CONTACT_INFO.phoneDisplay}
             </a>
           </div>
         </div>

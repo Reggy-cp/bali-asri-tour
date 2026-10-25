@@ -9,6 +9,7 @@ import {
   ChevronLeft,
   ChevronRight,
   MessageCircle,
+  Phone,
   Send,
 } from 'lucide-react';
 import { CONTACT_INFO } from '@/data/navigation';
@@ -316,10 +317,10 @@ export default function HomePage() {
             <div className="space-y-2.5 pt-2 text-sm font-medium">
               <div className="flex items-center gap-3">
                 <div className="w-5 h-5 flex items-center justify-center text-[#FFB200]">
-                  <MessageCircle className="w-4 h-4 fill-current" />
+                  <Phone className="w-4 h-4 fill-current" />
                 </div>
-                <a href={`https://wa.me/${CONTACT_INFO.whatsappNumber}`} className="hover:underline">
-                  +{CONTACT_INFO.whatsappNumber}
+                <a href={`tel:${CONTACT_INFO.phoneCall}`} className="hover:underline">
+                  {CONTACT_INFO.phoneDisplay}
                 </a>
               </div>
 
@@ -327,8 +328,13 @@ export default function HomePage() {
                 <div className="w-5 h-5 flex items-center justify-center text-[#FFB200]">
                   <MessageCircle className="w-4 h-4 fill-current" />
                 </div>
-                <a href={`https://wa.me/${CONTACT_INFO.phoneSecondary.replace(/[^0-9]/g, '')}`} className="hover:underline">
-                  {CONTACT_INFO.phoneSecondary}
+                <a
+                  href={`https://wa.me/${CONTACT_INFO.whatsappNumber}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:underline"
+                >
+                  {CONTACT_INFO.phoneDisplay}
                 </a>
               </div>
 

@@ -83,7 +83,7 @@ export default function SiteFooter() {
                   </a>
                 </div>
 
-                {/* WhatsApp 1 */}
+                {/* WhatsApp */}
                 <div className="flex items-center gap-2.5">
                   <MessageCircle className="w-4 h-4 text-[#FFB200] shrink-0 fill-[#FFB200]" />
                   <a
@@ -92,20 +92,7 @@ export default function SiteFooter() {
                     rel="noopener noreferrer"
                     className="hover:underline"
                   >
-                    +{CONTACT_INFO.whatsappNumber}
-                  </a>
-                </div>
-
-                {/* WhatsApp 2 */}
-                <div className="flex items-center gap-2.5">
-                  <MessageCircle className="w-4 h-4 text-[#FFB200] shrink-0 fill-[#FFB200]" />
-                  <a
-                    href={`https://wa.me/${CONTACT_INFO.phoneSecondary.replace(/[^0-9]/g, '')}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:underline"
-                  >
-                    {CONTACT_INFO.phoneSecondary}
+                    {CONTACT_INFO.phoneDisplay}
                   </a>
                 </div>
 

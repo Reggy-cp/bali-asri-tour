@@ -57,7 +57,7 @@ export default function ContactPage() {
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-[#FFB200] shrink-0 fill-[#FFB200]" />
                 <a href={`tel:${CONTACT_INFO.phoneCall}`} className="hover:text-[#308C17] transition-colors">
-                  +{CONTACT_INFO.whatsappNumber}
+                  {CONTACT_INFO.phoneDisplay}
                 </a>
               </div>
 
@@ -69,19 +69,7 @@ export default function ContactPage() {
                   rel="noopener noreferrer"
                   className="hover:text-[#308C17] transition-colors"
                 >
-                  +{CONTACT_INFO.whatsappNumber}
-                </a>
-              </div>
-
-              <div className="flex items-center gap-3">
-                <MessageCircle className="w-5 h-5 text-[#FFB200] shrink-0 fill-[#FFB200]" />
-                <a
-                  href={`https://wa.me/${CONTACT_INFO.phoneSecondary.replace(/[^0-9]/g, '')}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="hover:text-[#308C17] transition-colors"
-                >
-                  {CONTACT_INFO.phoneSecondary}
+                  {CONTACT_INFO.phoneDisplay}
                 </a>
               </div>
 
