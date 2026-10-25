@@ -2255,6 +2255,416 @@ export const POPULAR_TOURS: TourPackage[] = [
       "Lempuyang local photographer photo fee",
       "Driver gratuity"
     ]
+  },
+  {
+    "id": "wellness-and-yoga-tours-in-bali",
+    "slug": "wellness-and-yoga-tours-in-bali",
+    "title": "Wellness and Yoga Tours in Bali: A Unique Retreat",
+    "duration": "Full Day",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 85,
+    "priceNote": "USD 85 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 130 },
+      { "label": "2-3 Traveler", "priceUSD": 85 },
+      { "label": "4-6 Traveler", "priceUSD": 65 },
+      { "label": "7-10 Traveler", "priceUSD": 60 },
+      { "label": "11-14 Traveler", "priceUSD": 55 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 48,
+    "image": "/images/tours/yoga-retreat.webp",
+    "highlights": [
+      "Transformative retreat in peaceful Ubud jungle shalas",
+      "Guided yoga sessions attuned to nature's rhythm",
+      "Sound healing with Tibetan bowls & chakra balancing",
+      "Sacred Balinese water purification (Melukat)",
+      "Gourmet healthy lunch and herbal tea tasting"
+    ],
+    "description": "Wellness and Yoga Tours in Bali are more than just holidays—they are transformative experiences for the mind, body, and soul. Discover inner peace in serene Ubud settings, guided by certified Balinese master yogis and healers.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "07:30 AM – Morning hotel pick-up and scenic drive to Ubud",
+      "08:30 AM – 90-minute morning yoga session in open jungle shala",
+      "10:15 AM – Herbal tea tasting & organic Balinese refreshments",
+      "11:00 AM – Crystal sound healing and meditation session",
+      "12:30 PM – Healthy gourmet farm-to-table lunch",
+      "02:00 PM – Sacred holy spring water blessing ceremony (Melukat)",
+      "03:30 PM – Gentle nature walk through lush rice terraces",
+      "05:00 PM – Relaxed return transfer back to your accommodation"
+    ],
+    "included": [
+      "Private air-conditioned hotel transfers",
+      "All yoga, meditation, and sound healing sessions",
+      "Certified English-speaking yoga instructor",
+      "Gourmet organic lunch & herbal refreshments",
+      "Temple entrance fees and holy bathing sarongs",
+      "Chilled bottled mineral water"
+    ],
+    "excluded": [
+      "Personal expenses",
+      "Alcoholic beverages",
+      "Gratuities for instructors and driver"
+    ]
+  },
+  {
+    "id": "ubud-wellness-daypass",
+    "slug": "ubud-wellness-daypass",
+    "title": "Ubud Wellness Daypass",
+    "duration": "6-8 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 35,
+    "priceNote": "USD 35 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 50 },
+      { "label": "2-3 Traveler", "priceUSD": 35 },
+      { "label": "4-6 Traveler", "priceUSD": 28 },
+      { "label": "7-10 Traveler", "priceUSD": 26 },
+      { "label": "11-14 Traveler", "priceUSD": 24 }
+    ],
+    "rating": 4.9,
+    "reviewCount": 64,
+    "image": "/images/tours/ubud-wellness-floating-breakfast.png",
+    "highlights": [
+      "Full-day access to Ubud jungle wellness resort facilities",
+      "Morning yoga session surrounded by lush greenery",
+      "Insta-famous floating breakfast platter in pool",
+      "Invigorating herbal spa and infinity pool relaxation",
+      "Scenic nature trekking through organic spice gardens"
+    ],
+    "description": "Immerse yourself in a day of pure relaxation and rejuvenation in Ubud. This wellness day pass offers the ideal balance of yoga, culinary delight with a floating breakfast, and serene pool relaxation.",
+    "isPopular": true,
+    "isFeatured": false,
+    "itinerarySummary": [
+      "08:00 AM – Hotel pickup by private driver",
+      "09:00 AM – Arrival & refreshing welcome herbal drink",
+      "09:30 AM – 60-minute outdoor yoga & mindfulness class",
+      "11:00 AM – Signature floating breakfast in jungle infinity pool",
+      "01:00 PM – Free time for swimming, sunbathing, and spa therapy",
+      "03:00 PM – Guided stroll through organic herbal gardens",
+      "04:30 PM – Scenic transfer back to hotel"
+    ],
+    "included": [
+      "Resort daypass & facility access",
+      "60-minute guided yoga class with mat provided",
+      "Full floating breakfast platter in pool",
+      "Towel service and pool access",
+      "Bottled mineral water"
+    ],
+    "excluded": [
+      "Spa massage add-ons (available on-site)",
+      "Additional drinks and meals",
+      "Personal expenses"
+    ]
+  },
+  {
+    "id": "jungle-bliss-outdoor-yoga-class-and-rice-terrace-trekking",
+    "slug": "jungle-bliss-outdoor-yoga-class-and-rice-terrace-trekking",
+    "title": "Jungle Bliss : Outdoor Yoga Class and Rice Terrace Trekking",
+    "duration": "6 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 30,
+    "priceNote": "USD 30 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 50 },
+      { "label": "2-3 Traveler", "priceUSD": 30 },
+      { "label": "4-6 Traveler", "priceUSD": 25 },
+      { "label": "7-10 Traveler", "priceUSD": 23 },
+      { "label": "11-14 Traveler", "priceUSD": 22 }
+    ],
+    "rating": 4.9,
+    "reviewCount": 52,
+    "image": "/images/tours/jungle-bliss-yoga-rice-terrace.jpg",
+    "highlights": [
+      "Revitalizing outdoor yoga amidst ancient jungle canopy",
+      "Guided trek through UNESCO-listed Tegalalang rice terraces",
+      "Traditional Balinese coffee roasting and tea tasting",
+      "Learn about the ancient Subak cooperative irrigation system",
+      "Scenic valley views and incredible photo opportunities"
+    ],
+    "description": "Immerse yourself in the breathtaking beauty of Bali with our Jungle Bliss experience. Combine an invigorating outdoor yoga practice with an authentic trek through emerald green rice terraces.",
+    "isPopular": false,
+    "isFeatured": false,
+    "itinerarySummary": [
+      "07:30 AM – Morning hotel pickup",
+      "08:30 AM – 60-minute open-air yoga session overlooking valley",
+      "10:00 AM – Coffee plantation visit with Balinese snack & tea tasting",
+      "11:15 AM – Guided walking trek through Tegalalang rice terraces",
+      "01:00 PM – Leisure lunch stop overlooking rice fields (meal optional)",
+      "02:30 PM – Smooth return drive to hotel"
+    ],
+    "included": [
+      "Round-trip private hotel transfers",
+      "Yoga session with certified English instructor",
+      "Coffee and herbal tea tasting experience",
+      "Tegalalang rice terrace entry tickets",
+      "Mineral water"
+    ],
+    "excluded": [
+      "Lunch meal",
+      "Ubud jungle swing fee (optional)",
+      "Tips for guide"
+    ]
+  },
+  {
+    "id": "outdoor-yoga-class-and-blissful-spa-experience",
+    "slug": "outdoor-yoga-class-and-blissful-spa-experience",
+    "title": "Outdoor Yoga Class and Blissful SPA Experience",
+    "duration": "7 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 85,
+    "priceNote": "USD 85 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 130 },
+      { "label": "2-3 Traveler", "priceUSD": 85 },
+      { "label": "4-6 Traveler", "priceUSD": 65 },
+      { "label": "7-10 Traveler", "priceUSD": 60 },
+      { "label": "11-14 Traveler", "priceUSD": 55 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 76,
+    "image": "/images/tours/outdoor-yoga-spa.jpg",
+    "highlights": [
+      "Outdoor yoga session in pristine Ubud river valley",
+      "Luxurious floating breakfast served in private pool",
+      "1.5-hour traditional Balinese body massage",
+      "Refreshing facial treatment at luxury Ubud spa",
+      "Herbal tea tasting and traditional Balinese sweets"
+    ],
+    "description": "Experience the ultimate blend of relaxation, wellness, and indulgence with our Ubud Serenity program: morning outdoor yoga, gourmet floating breakfast, and an indulgent 90-minute Balinese spa treatment.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "07:00 AM – Hotel pickup in private air-conditioned vehicle",
+      "08:00 AM – 60-minute outdoor yoga & mindfulness session",
+      "09:15 AM – Coffee break with Balinese cakes & herbal tea",
+      "10:00 AM – Deluxe floating breakfast in jungle swimming pool",
+      "11:30 AM – Transfer to Bliss Spa Ubud",
+      "12:00 PM – 1.5-hour Balinese massage & refresher facial",
+      "02:00 PM – Return journey to your hotel"
+    ],
+    "included": [
+      "Round-trip private hotel transfers",
+      "All yoga instruction & equipment",
+      "Full floating breakfast platter",
+      "1.5-hour spa package (massage + facial)",
+      "Coffee, tea, and Balinese cake tasting",
+      "Liability insurance"
+    ],
+    "excluded": [
+      "Lunch meal",
+      "Personal shopping",
+      "Gratuities"
+    ]
+  },
+  {
+    "id": "sacred-harmony-outdoor-yoga-and-spiritual-cleansing-in-ubud-jungle",
+    "slug": "sacred-harmony-outdoor-yoga-and-spiritual-cleansing-in-ubud-jungle",
+    "title": "Sacred Harmony: Outdoor Yoga, Floating Breakfast and Spiritual Cleansing in Ubud Jungle",
+    "duration": "7-8 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 85,
+    "priceNote": "USD 85 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 130 },
+      { "label": "2-3 Traveler", "priceUSD": 85 },
+      { "label": "4-6 Traveler", "priceUSD": 65 },
+      { "label": "7-10 Traveler", "priceUSD": 60 },
+      { "label": "11-14 Traveler", "priceUSD": 55 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 92,
+    "image": "/images/tours/sacred-harmony-cleansing.jpg",
+    "highlights": [
+      "Outdoor jungle yoga & crystal sound healing",
+      "Authentic floating breakfast in infinity pool",
+      "Sacred Melukat purification at ancient Mengening Temple",
+      "Private palm reading & chakra consultation with Balinese healer",
+      "Complete spiritual renewal guided by local experts"
+    ],
+    "description": "Embark on a deeply transformative journey of wellness, spirituality, and Balinese culture. Combines outdoor yoga, floating breakfast, sacred spring purification (Melukat), and authentic palm reading.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "07:00 AM – Early morning hotel pickup",
+      "08:00 AM – Outdoor yoga and sound healing in Ubud jungle",
+      "09:30 AM – Coffee break with Balinese cakes & tea tasting",
+      "10:15 AM – Gourmet floating breakfast in private jungle pool",
+      "11:45 AM – Sacred Melukat holy bathing ritual at Mengening Temple",
+      "01:30 PM – Private palm reading & chakra balance session with local healer",
+      "03:00 PM – Peaceful return transfer to your accommodation"
+    ],
+    "included": [
+      "Private air-conditioned hotel transport",
+      "Yoga and meditation session",
+      "Floating breakfast experience",
+      "Temple admission and Melukat offerings",
+      "Wet and dry ceremonial sarongs for holy bathing",
+      "Healer donation for palm reading session",
+      "Local general liability insurance"
+    ],
+    "excluded": [
+      "Lunch meal",
+      "Personal expenses",
+      "Driver and instructor gratuities"
+    ]
+  },
+  {
+    "id": "outdoor-yoga-and-sound-healing-at-ubud-jungle",
+    "slug": "outdoor-yoga-and-sound-healing-at-ubud-jungle",
+    "title": "Outdoor Yoga and Sound Healing at Ubud Jungle",
+    "duration": "2 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 20,
+    "priceNote": "USD 20 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 35 },
+      { "label": "2-3 Traveler", "priceUSD": 20 },
+      { "label": "4-6 Traveler", "priceUSD": 15 },
+      { "label": "7-10 Traveler", "priceUSD": 10 },
+      { "label": "11-14 Traveler", "priceUSD": 8 }
+    ],
+    "rating": 4.9,
+    "reviewCount": 41,
+    "image": "/images/tours/outdoor-yoga-sound-healing.jpg",
+    "highlights": [
+      "Energizing 60-minute outdoor yoga class in jungle shala",
+      "Therapeutic Tibetan singing bowl sound healing",
+      "Chakra realignment and stress-release meditation",
+      "Local Balinese coffee and herbal tea tasting",
+      "Peaceful river valley environment"
+    ],
+    "description": "Experience an outdoor Yoga and Sound Healing journey in the heart of the Ubud jungle. Merge breathwork and mindful movement with the resonant acoustic frequencies of Tibetan singing bowls.",
+    "isPopular": false,
+    "isFeatured": false,
+    "itinerarySummary": [
+      "07:30 AM – Arrival at meeting point in Ubud",
+      "08:00 AM – 60-minute invigorating yoga session in lush greenery",
+      "08:45 AM – Acoustic sound healing bath with singing bowls",
+      "09:15 AM – Coffee break with herbal tea & Balinese sweets",
+      "09:45 AM – Session concludes with refreshed mind and energy"
+    ],
+    "included": [
+      "All yoga mats and meditation equipment",
+      "Certified yoga instructor and sound healer",
+      "Freshly brewed Balinese coffee & herbal tea tasting",
+      "Traditional Balinese cakes"
+    ],
+    "excluded": [
+      "Hotel transfers (available on request)",
+      "Meals",
+      "Personal expenses"
+    ]
+  },
+  {
+    "id": "sunrise-yoga-and-holy-bathing",
+    "slug": "sunrise-yoga-and-holy-bathing",
+    "title": "Outdoor Yoga Class and Holy Bathing",
+    "duration": "7 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 50,
+    "priceNote": "USD 50 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 90 },
+      { "label": "2-3 Traveler", "priceUSD": 50 },
+      { "label": "4-6 Traveler", "priceUSD": 30 },
+      { "label": "7-10 Traveler", "priceUSD": 25 },
+      { "label": "11-14 Traveler", "priceUSD": 20 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 58,
+    "image": "/images/tours/sunrise-yoga-holy-bathing.jpg",
+    "highlights": [
+      "Early morning yoga class in tranquil Ubud jungle",
+      "Traditional coffee processing & Luwak coffee tasting",
+      "Sacred Melukat water temple cleansing at Mengening",
+      "Visit and hike along Tegalalang rice terraces",
+      "Private transport with knowledgeable English guide"
+    ],
+    "description": "Escape the bustle of daily life on a transformative journey: 1-hour jungle yoga, traditional coffee tasting, sacred Melukat spring bathing ritual, and scenic exploration of Tegalalang rice paddies.",
+    "isPopular": true,
+    "isFeatured": true,
+    "itinerarySummary": [
+      "06:00 AM – Hotel pickup in private vehicle",
+      "08:00 AM – Yoga and meditation class at Kumulilir Ubud jungle",
+      "09:30 AM – Coffee plantation tour & herbal tea tasting",
+      "10:00 AM – Melukat holy bathing ritual at Mengening Temple",
+      "12:00 PM – Scenic lunch stop overlooking the valley (meal optional)",
+      "02:00 PM – Walking tour along Tegalalang rice terraces",
+      "04:00 PM – Smooth return drive to hotel"
+    ],
+    "included": [
+      "Private hotel pickup and drop-off",
+      "Yoga class with professional instructor",
+      "Coffee and herbal tea tasting",
+      "Mengening temple & Tegalalang entrance fees",
+      "Ceremonial sarong rental for holy bathing",
+      "Chilled mineral water"
+    ],
+    "excluded": [
+      "Lunch meal",
+      "Personal expenses",
+      "Driver gratuity"
+    ]
+  },
+  {
+    "id": "sunrise-yoga-and-meditation-with-floating-breakfast",
+    "slug": "sunrise-yoga-and-meditation-with-floating-breakfast",
+    "title": "Outdoor Yoga and Sound Healing with Floating Breakfast",
+    "duration": "6 Hours",
+    "durationDays": 1,
+    "category": "experience",
+    "priceUSD": 55,
+    "priceNote": "USD 55 / Pax (2-3 Traveler)",
+    "priceTiers": [
+      { "label": "Solo Traveler", "priceUSD": 95 },
+      { "label": "2-3 Traveler", "priceUSD": 55 },
+      { "label": "4-6 Traveler", "priceUSD": 40 },
+      { "label": "7-10 Traveler", "priceUSD": 35 },
+      { "label": "11-14 Traveler", "priceUSD": 30 }
+    ],
+    "rating": 5.0,
+    "reviewCount": 69,
+    "image": "/images/tours/sunrise-yoga-floating-breakfast.webp",
+    "highlights": [
+      "1-hour yoga and meditation class in Ubud jungle",
+      "Aromatic coffee tasting and Luwak coffee discovery",
+      "Luxury floating breakfast platter in private pool",
+      "Trek through Tegalalang rice terraces & Subak irrigation",
+      "All-inclusive private morning retreat"
+    ],
+    "description": "Rejuvenate your body and spirit with an uplifting morning: peaceful jungle yoga, fresh coffee tasting, a luxurious floating breakfast in a private pool, and a trek across Tegalalang terraces.",
+    "isPopular": true,
+    "isFeatured": false,
+    "itinerarySummary": [
+      "06:30 AM – Hotel pickup by friendly private guide",
+      "08:00 AM – 1-hour yoga and meditation at Kumulilir Ubud jungle",
+      "09:15 AM – Traditional coffee plantation tour and tea tasting",
+      "10:00 AM – Exquisite floating breakfast platter in pool",
+      "11:30 AM – 30-minute guided trek through Tegalalang rice terraces",
+      "01:00 PM – Scenic return transfer to your hotel"
+    ],
+    "included": [
+      "Private AC hotel transfers",
+      "Yoga and meditation session",
+      "Full floating breakfast platter in pool",
+      "Coffee, herbal tea, and Balinese cake tasting",
+      "Tegalalang rice terrace entry",
+      "Chilled bottled water"
+    ],
+    "excluded": [
+      "Additional food and drinks",
+      "Personal expenses",
+      "Tips for driver and instructor"
+    ]
   }
 ];
 
