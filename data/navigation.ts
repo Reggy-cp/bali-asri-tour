@@ -92,6 +92,11 @@ export const MAIN_NAVIGATION: NavItem[] = [
         description: 'Community initiatives supporting Balinese orphanages',
       },
       {
+        label: 'Blogs & Travel Tips',
+        href: '/blogs/',
+        description: 'Bali travel guides, visa rules & itinerary tips',
+      },
+      {
         label: 'FAQ',
         href: '/faq/',
         description: 'Frequently asked questions on pickups, tours & cars',

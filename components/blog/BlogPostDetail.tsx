@@ -21,7 +21,7 @@ export default function BlogPostDetail({ blog }: BlogPostDetailProps) {
   const allBlogs = getAllBlogPosts();
   const otherBlogs = allBlogs.filter((b) => b.id !== blog.id).slice(0, 3);
   const featuredTours = getAllTours().slice(0, 3);
-  const pageUrl = `https://bali-agung-tours.com/${blog.slug}/`;
+  const pageUrl = `https://baliasritour.com/blogs/${blog.slug}/`;
 
   return (
     <div className="bg-white min-h-screen">

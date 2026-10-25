@@ -168,6 +168,9 @@ export default function SiteFooter() {
                 <Link href="/contact/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
                   <span className="text-[#FFB200]">›</span> Contact Us
                 </Link>
+                <Link href="/blogs/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
+                  <span className="text-[#FFB200]">›</span> Blogs &amp; Travel Tips
+                </Link>
                 <Link href="/terms-conditions/" className="hover:text-[#FFB200] transition-colors flex items-center gap-1.5">
                   <span className="text-[#FFB200]">›</span> Terms &amp; Conditions
                 </Link>

@@ -9,9 +9,11 @@ interface Props {
 
 export async function generateStaticParams() {
   const blogs = getAllBlogPosts();
-  return blogs.map((blog) => ({
+  const params = blogs.map((blog) => ({
     slug: blog.slug,
   }));
+  params.push({ slug: 'bali-asri-tour-officially-recognized-as-an-asita-member' });
+  return params;
 }
 
 export async function generateMetadata({ params }: Props) {
