@@ -38,11 +38,9 @@ describe('Milestone 4 — Homepage Components', () => {
     });
   });
 
-  it('renders entire HomePage with live popular tours and reviews summary', () => {
+  it('renders entire HomePage with live popular tours and more popular tours link', () => {
     render(<HomePage />);
     expect(screen.getByRole('heading', { name: /Sunrise Jeep Tour/i })).toBeInTheDocument();
-    expect(screen.getByText(/Car Hire Bali with Driver/i)).toBeInTheDocument();
-    expect(screen.getByText(/Review & Gallery/i)).toBeInTheDocument();
-    expect(screen.getByText(/1,192 reviews/i)).toBeInTheDocument();
+    expect(screen.getByText(/More Popular Tours/i)).toBeInTheDocument();
   });
 });

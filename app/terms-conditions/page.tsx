@@ -29,7 +29,7 @@ export default function TermsConditionsPage() {
               <li>Goverment Licensed tour guide (English, Spanish, Mandarin, German, etc) available on request and extra charge will apply.</li>
               <li>
                 If you are already in Bali, you can direct booking by calling our office at{' '}
-                <a href="tel:+6281703734836" className="text-[#308C17] hover:underline font-medium">+62 817-0373-4836</a> (24 hours)
+                <a href="tel:+62895410959263" className="text-[#308C17] hover:underline font-medium">+62 895-4109-59263</a> (24 hours)
               </li>
               <li>For Tour Payment; We only accept major currencies ; U$ Dollar in (IDR) Rupiah. Rate subject to daily exchange rate.</li>
               <li>For Tour Payment; 50 % Deposit and another 50% upon Arrival.</li>
@@ -39,7 +39,7 @@ export default function TermsConditionsPage() {
               <li>
                 We offer special price for group booking and up to 20% off for bali actvites booking. For inquiry drop us email at{' '}
                 <a href="mailto:info@baliasritour.com" className="text-[#308C17] hover:underline font-medium">info@baliasritour.com</a> or Text (WA){' '}
-                <a href="https://wa.me/6281703734836" className="text-[#308C17] hover:underline font-medium">+62 817-0373-4836</a> (24 hours)
+                <a href="https://wa.me/62895410959263" className="text-[#308C17] hover:underline font-medium">+62 895-4109-59263</a> (24 hours)
               </li>
             </ul>
           </div>

@@ -23,7 +23,7 @@ export const FLEET_VEHICLES: FleetVehicle[] = [
     luggage: 3,
     rateUSD: 40,
     durationHours: 10,
-    image: 'https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=600&q=80',
+    image: '/images/avanza.jpg',
     tag: 'Best Value',
     features: ['Double-Blower AC', 'Clean Cloth Seats', 'USB Phone Charging', 'Mineral Water Included', 'English Chauffeur'],
     description: 'Our most economical private car. Nimble and perfect for navigating narrow village roads in Ubud and Seminyak.',

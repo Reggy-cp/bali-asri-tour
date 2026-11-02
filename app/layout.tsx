@@ -83,8 +83,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${josefinSans.variable} ${poppins.variable}`}>
-      <body className="font-body antialiased bg-white text-body min-h-screen flex flex-col selection:bg-brand-primary selection:text-white overflow-x-hidden">
+    <html lang="en" suppressHydrationWarning className={`${josefinSans.variable} ${poppins.variable}`}>
+      <body
+        suppressHydrationWarning
+        className="font-body antialiased bg-white text-body min-h-screen flex flex-col selection:bg-brand-primary selection:text-white overflow-x-hidden"
+      >
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />

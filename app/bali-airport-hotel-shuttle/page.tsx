@@ -67,8 +67,8 @@ export default function AirportShuttlePage() {
           </div>
           <div className="lg:col-span-5 relative aspect-[16/10] rounded-2xl overflow-hidden shadow-sm">
             <Image
-              src="/images/driver-hiace.jpg"
-              alt="Bali Airport Transfer & Hotel Shuttle"
+              src="/images/white-avanza-airport.jpg"
+              alt="White Toyota Avanza Bali Airport Transfer & Hotel Shuttle"
               fill
               className="object-cover"
               priority

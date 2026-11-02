@@ -7,7 +7,7 @@ import { MAIN_NAVIGATION, CONTACT_INFO } from '@/data/navigation';
 
 describe('Foundation Navigation & Metadata', () => {
   it('contains verified contact metadata matching Milestone 1 inspection', () => {
-    expect(CONTACT_INFO.whatsappNumber).toBe('6281703734836');
+    expect(CONTACT_INFO.whatsappNumber).toBe('62895410959263');
     expect(CONTACT_INFO.email).toBe('info@baliasritour.com');
     expect(CONTACT_INFO.licenseNumber).toContain('2712210002034');
   });

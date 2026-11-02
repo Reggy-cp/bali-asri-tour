@@ -1519,7 +1519,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 460,
-    "image": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/ubud-monkey-forest.jpg",
     "highlights": [
       "Sacred Monkey Forest Sanctuary: Stroll through ancient mossy banyan forests home to over 700 friendly monkeys.",
       "Tegalalang Rice Terraces: Marvel at emerald green terraced hills and soaring jungle swings.",
@@ -1583,7 +1583,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 4.9,
     "reviewCount": 310,
-    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/west-bali-jatiluwih.jpg",
     "highlights": [
       "Taman Ayun Royal Water Temple: UNESCO-recognized 17th-century moated royal garden temple of Mengwi Kingdom.",
       "Ulun Danu Beratan Temple: Iconic 11-tier pagoda floating gracefully on the mountain lake in Bedugul.",
@@ -1647,7 +1647,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 410,
-    "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/uluwatu-kecak-sunset.webp",
     "highlights": [
       "Uluwatu Cliff Temple: Walk the scenic cliff-edge trail overlooking surf breaks and Indian Ocean horizons.",
       "Sunset Kecak & Fire Dance: Experience Bali\u2019s most dramatic traditional dance performance during golden hour.",
@@ -2224,7 +2224,7 @@ export const POPULAR_TOURS: TourPackage[] = [
     ],
     "rating": 5.0,
     "reviewCount": 450,
-    "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80",
+    "image": "/images/tours/the-most-bali-instagramable-day-trip.webp",
     "highlights": [
       "Lempuyang Gate of Heaven: Take the iconic photo framed between split temple gates with Mount Agung in the backdrop.",
       "Tirta Gangga Water Palace: Step across stone pads floating atop koi ponds filled with giant golden fish.",
@@ -3751,7 +3751,7 @@ export const TOUR_CATEGORIES = [
     title: 'Airport & Hotel Shuttle',
     subtitle: '24/7 Meet & Greet Transfer',
     count: 'All Areas',
-    image: 'https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=600&q=80',
+    image: '/images/white-avanza-airport.jpg',
     description: 'Reliable transfers between Ngurah Rai International Airport (DPS) and hotels in Kuta, Seminyak, Ubud, and Uluwatu.',
   },
 ];

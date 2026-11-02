@@ -45,7 +45,7 @@ export default function FAQPage() {
     },
     {
       q: 'How can I contact my driver before the tour?',
-      a: 'Via WhatsApp (+62 817-0373-4836), email (info@baliasritour.com), or contact form on our website.',
+      a: 'Via WhatsApp (+62 895-4109-59263), email (info@baliasritour.com), or contact form on our website.',
     },
     {
       q: 'Do you offer honeymoon or couple packages?',
