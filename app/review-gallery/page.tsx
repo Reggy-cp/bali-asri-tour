@@ -43,57 +43,7 @@ export default function ReviewGalleryPage() {
           </div>
         </div>
 
-        {/* TripAdvisor Traveler Reviews Grid */}
-        <div className="space-y-6 pt-4">
-          <div className="flex items-center justify-between border-b border-gray-100 pb-4">
-            <div>
-              <h2 className="font-heading font-bold text-xl text-gray-900">
-                TripAdvisor Reviews
-              </h2>
-              <p className="text-xs text-gray-500">Rated 5.0 / 5.0 by 1,450+ verified travelers</p>
-            </div>
 
-            <a
-              href={SOCIAL_LINKS.tripadvisor}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-xs font-bold text-[#308C17] hover:underline"
-            >
-              <span>View on TripAdvisor</span>
-              <ExternalLink className="w-3.5 h-3.5" />
-            </a>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {TRIPADVISOR_REVIEWS.map((rev) => (
-              <div
-                key={rev.id}
-                className="bg-[#F9FAF6] rounded-2xl p-6 border border-gray-100 flex flex-col justify-between space-y-4 hover:shadow-md transition-shadow"
-              >
-                <div className="space-y-3">
-                  <div className="flex items-center gap-1 text-[#FFB200]">
-                    {[...Array(5)].map((_, i) => (
-                      <Star key={i} className="w-4 h-4 fill-[#FFB200]" />
-                    ))}
-                  </div>
-
-                  <h3 className="font-heading font-bold text-sm text-gray-900 leading-snug">
-                    {rev.title}
-                  </h3>
-
-                  <p className="text-xs sm:text-sm text-gray-700 leading-relaxed italic">
-                    &ldquo;{rev.text}&rdquo;
-                  </p>
-                </div>
-
-                <div className="pt-3 border-t border-gray-200 text-xs text-gray-500">
-                  <strong className="text-gray-900 block">{rev.author}</strong>
-                  <span>{rev.origin}</span> • <span>{rev.date}</span>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
 
         {/* Photo Gallery Grid */}
         <div className="space-y-6 pt-8 border-t border-gray-100">
