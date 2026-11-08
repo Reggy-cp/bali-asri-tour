@@ -29,19 +29,10 @@ export default function OurTeamPage() {
 
         <div className="space-y-6 text-gray-700 text-sm sm:text-base leading-relaxed font-body text-left sm:text-center">
           <p>
-            Bali Asri Tour is Team of local Balinese with Global mindset, we dedicated ourselve to give true Balinese Hospitality to the traveler who visting Bali Island, experience the real Bali with local, explore the magic of Bali with ” My_Balibuddy”.
+            Bali Asri Tour is Team of local Balinese with Global mindset, we dedicated ourselve to give true Balinese Hospitality to the traveler who visting Bali Island, experience the real Bali with local, explore the magic of Bali with Bali Asri Tour Team.
           </p>
           <p>
-            Experience the excitement of our guests’ adventures in Bali with Bali Asri Tour! From exploring stunning rice terraces and pristine beaches to discovering hidden waterfalls and vibrant local markets, our tours offer unforgettable moments. Follow us on Instagram to join the fun, see highlights from our trips, and get inspired for your next Bali getaway. Don’t miss out on the magic – follow{' '}
-            <a
-              href="https://www.instagram.com/my_balibuddy/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#ffb703] font-bold hover:underline"
-            >
-              @my_balibuddy
-            </a>{' '}
-            and be part of our journey! 🌴✨
+            Experience the excitement of our guests’ adventures in Bali with Bali Asri Tour! From exploring stunning rice terraces and pristine beaches to discovering hidden waterfalls and vibrant local markets, our tours offer unforgettable moments. Follow us on Instagram to join the fun, see highlights from our trips, and get inspired for your next Bali getaway. Don’t miss out on the magic – follow Bali Asri Tour Team and be part of our journey! 🌴✨
           </p>
         </div>
       </section>
