@@ -22,33 +22,15 @@ export default function AboutPage() {
         {/* Live Copy Paragraphs */}
         <div className="space-y-4 text-gray-800 text-sm sm:text-base leading-relaxed">
           <p>
-            Welcome to <strong>Bali Asri Tour</strong> site, we are trusted and reliable Bali Personal Drivers and Guides. We have been on this field since 2005, we have served guests from all over the world{' '}
-            <a
-              href="http://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#FFB200] hover:underline font-semibold"
-            >
-              here !
-            </a>
-            , we are proud Balinese and we’d like to share our expertise about this island. Our tagline “Balinese Hospitality”, We will assure you to have great time and Enjoying Bali Island to the fullest.
+            Welcome to <strong>Bali Asri Tour</strong> site, we are trusted and reliable Bali Personal Drivers and Guides. We have been on this field since 2005, we have served guests from all over the world, we are proud Balinese and we’d like to share our expertise about this island. Our tagline “Balinese Hospitality”, We will assure you to have great time and Enjoying Bali Island to the fullest.
           </p>
 
           <p>
-            We have served over 1000 happy guest and our serviceses highly recommended on Largest travel forum{' '}
-            <a
-              href="http://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#FFB200] hover:underline font-semibold"
-            >
-              Tripadvisor
-            </a>{' '}
-            and we have rewarded certificate of excellence for providing{' '}
+            We have served over 1000 happy guest and our serviceses highly recommended on Largest travel forum Tripadvisor and we have rewarded certificate of excellence for providing{' '}
             <Link href="/bali-tour-package/" className="text-[#FFB200] hover:underline font-semibold">
               Bali tour package
             </Link>{' '}
-            services in 2014, 2015, 2016, 2017, 2023, 2024, 2025. Other reference, we work with some reputable tour agency and tour marketplace such as ; tours by local, Viator, Airbnb, Gia Linh, and more...
+            services.
           </p>
         </div>
 
@@ -90,7 +72,7 @@ export default function AboutPage() {
         <div className="pt-6 border-t border-gray-200 text-sm text-gray-700 space-y-1.5">
           <div>
             <strong>Website:</strong>{' '}
-            <span className="text-[#308C17]">www.bali-agung-tours.com</span>
+            <span className="text-[#308C17]">baliasritour.com</span>
           </div>
           <div>
             <strong>Email:</strong>{' '}
