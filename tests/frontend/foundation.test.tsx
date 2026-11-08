@@ -28,10 +28,13 @@ describe('Foundation Navigation & Metadata', () => {
     expect(screen.getAllByText(/CONTACT/i).length).toBeGreaterThan(0);
   });
 
-  it('renders SiteFooter with contact info, quick links, and copyright', () => {
+  it('renders SiteFooter with contact info, quick links, mastercard, and copyright', () => {
     render(<SiteFooter />);
     expect(screen.getByText(/Quick Links/i)).toBeInTheDocument();
     expect(screen.getByText(/We Accept/i)).toBeInTheDocument();
+    expect(screen.getByAltText(/Mastercard/i)).toBeInTheDocument();
     expect(screen.getByText(/All rights reserved/i)).toBeInTheDocument();
+    expect(screen.queryByAltText(/Association of The Indonesian Tours/i)).not.toBeInTheDocument();
+    expect(screen.queryByText(/TRIP KUY/i)).not.toBeInTheDocument();
   });
 });

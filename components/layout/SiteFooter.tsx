@@ -180,20 +180,20 @@ export default function SiteFooter() {
               </div>
             </div>
 
-            {/* Column 3: We Accept with White Payment Card (md:col-span-3) */}
+            {/* Column 3: We Accept with Mastercard Only (md:col-span-3) */}
             <div className="md:col-span-3 space-y-4">
               <h3 className="font-heading font-bold text-lg sm:text-xl text-white">
                 We Accept
               </h3>
 
-              {/* Exact PayPal & Cards White Box from Reference Image */}
-              <div className="bg-white rounded-2xl p-4 shadow-lg border border-gray-100 flex items-center justify-center max-w-[280px]">
+              {/* White Box containing only Mastercard Logo */}
+              <div className="bg-white rounded-2xl p-5 shadow-lg border border-gray-100 flex items-center justify-center max-w-[280px]">
                 <Image
-                  src="/images/paypal.webp"
-                  alt="PayPal, Visa, MasterCard, American Express, Discover"
-                  width={280}
-                  height={190}
-                  className="w-full h-auto object-contain max-h-[170px]"
+                  src="/images/mastercard.svg"
+                  alt="Mastercard"
+                  width={160}
+                  height={115}
+                  className="w-full h-auto object-contain max-h-[110px]"
                 />
               </div>
             </div>
@@ -202,31 +202,12 @@ export default function SiteFooter() {
         </div>
       </div>
 
-      {/* 3. Sub-Footer with Center ASITA Badge on White Background */}
+      {/* 3. Sub-Footer on White Background */}
       <div className="bg-white py-6 border-t border-gray-100">
-        <div className="max-w-[1240px] mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-xs font-medium text-[#4b7a39] text-center md:text-left">
-            {/* Left Copyright */}
-            <div className="whitespace-nowrap text-[#4b7a39]">
-              Copyright &copy;2005-2026 Bali Asri Tour. All Rights Reserved.
-            </div>
-
-            {/* Center ASITA Official Seal */}
-            <div className="flex justify-center py-2 md:py-0">
-              <Image
-                src="/images/asita.png"
-                alt="Association of The Indonesian Tours and Travel Agencies"
-                width={120}
-                height={80}
-                className="h-14 w-auto object-contain"
-              />
-            </div>
-
-            {/* Right Legal Business License */}
-            <div className="whitespace-nowrap font-medium text-[#4b7a39] md:text-right md:pr-14 lg:pr-20">
-              {CONTACT_INFO.companyLegal} | Bussiness Licence : {CONTACT_INFO.businessLicense}
-            </div>
-          </div>
+        <div className="max-w-[1240px] mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <p className="text-xs font-medium text-[#4b7a39]">
+            Copyright &copy;2005-2026 Bali Asri Tour. All Rights Reserved.
+          </p>
         </div>
       </div>
     </footer>
