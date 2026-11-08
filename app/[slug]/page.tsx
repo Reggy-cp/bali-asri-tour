@@ -80,7 +80,7 @@ export default async function TourDetailPage({ params }: Props) {
   const whatsappUrl = `https://api.whatsapp.com/send?phone=${CONTACT_INFO.whatsappNumber}&text=${encodeURIComponent(
     `Hi Bali Asri Tour, I wanna book tour ${tour.title}`
   )}`;
-  const pageUrl = `https://bali-agung-tours.com/${tour.slug}/`;
+  const pageUrl = `https://baliasritour.com/${tour.slug}/`;
 
   return (
     <div className="bg-white min-h-screen">

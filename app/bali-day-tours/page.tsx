@@ -36,7 +36,7 @@ export default function BaliDayToursPage() {
           </div>
           <div className="lg:col-span-4 flex justify-center lg:justify-end">
             <a
-              href="http://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html"
+              href="https://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html"
               target="_blank"
               rel="noopener noreferrer"
               className="block max-w-[280px] hover:opacity-95 transition-opacity"

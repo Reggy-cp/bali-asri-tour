@@ -130,6 +130,5 @@ export const SOCIAL_LINKS = {
   facebook: 'https://m.facebook.com/balidaytour/',
   instagram: 'https://www.instagram.com/my_balibuddy/',
   twitter: 'https://twitter.com/baliasritour',
-  googlePlus: 'https://plus.google.com/u/0/+AgungBalibuddy?rel=author',
-  tripadvisor: 'http://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html',
+  tripadvisor: 'https://www.tripadvisor.co.id/Attraction_Review-g297694-d2307678-Reviews-Bali_Agung_Tours_Day_Tours-Denpasar_Bali.html',
 };
