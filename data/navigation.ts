@@ -111,9 +111,9 @@ export const MAIN_NAVIGATION: NavItem[] = [
 
 export const CONTACT_INFO = {
   brandName: 'Bali Asri Tour',
-  companyLegal: 'PT. TRIP KUY INDONESIA',
-  businessLicense: '2712210002034',
-  licenseNumber: '2712210002034',
+  companyLegal: 'Bali Asri Tour',
+  businessLicense: '',
+  licenseNumber: '',
   tagline: 'Bali Tour package - Bali Guide - Car Hire Bali with Driver',
   address: 'JL Raya Sakah, Sukawati, Gianyar, Bali',
   phoneDisplay: '+62 895-4109-59263',

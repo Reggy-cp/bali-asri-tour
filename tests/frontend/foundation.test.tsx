@@ -9,7 +9,7 @@ describe('Foundation Navigation & Metadata', () => {
   it('contains verified contact metadata matching Milestone 1 inspection', () => {
     expect(CONTACT_INFO.whatsappNumber).toBe('62895410959263');
     expect(CONTACT_INFO.email).toBe('info@baliasritour.com');
-    expect(CONTACT_INFO.licenseNumber).toContain('2712210002034');
+    expect(CONTACT_INFO.companyLegal).toBe('Bali Asri Tour');
   });
 
   it('contains all core tour and car hire navigation categories', () => {

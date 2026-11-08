@@ -50,7 +50,7 @@ export default function AboutPage() {
               <strong>Business Registration:</strong> Bali Asri Tour is fully registered as a legal business entity in Indonesia. We have completed all necessary steps to establish our business, including obtaining a business registration certificate from the appropriate government authorities, Our Legal name <strong>{CONTACT_INFO.companyLegal}</strong>
             </li>
             <li>
-              <strong>Operational Permits:</strong> We have obtained all required operational permits for our tours and activities, ensuring that we comply with local regulations. Business License No. <strong>{CONTACT_INFO.businessLicense}</strong>
+              <strong>Operational Permits:</strong> We have obtained all required operational permits for our tours and activities, ensuring that we comply with local regulations.
             </li>
             <li>
               <strong>Liability Insurance:</strong> Bali Asri Tour carries comprehensive liability insurance to protect our clients . This insurance covers potential risks and ensures that we can provide financial compensation in the unlikely event of an accident or incident during our tours.

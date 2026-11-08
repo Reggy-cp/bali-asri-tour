@@ -3206,7 +3206,7 @@ export const BLOG_POSTS: BlogPost[] = [
     readTime: '5 min read',
     category: 'Company News',
     excerpt:
-      'Bali Asri Tour (operated under PT. TRIP KUY INDONESIA, Business License NIB: 2712210002034) has officially been recognized as a registered member of the Association of the Indonesian Tours and Travel Agencies (ASITA), the country’s primary regulatory body overseeing licensed tourism operators. The recognition formally places the company within Indonesia’s official tourism governance framework, a distinction that carries direct implications for how international clients, travel agencies, and individual travelers can evaluate the reliability of their ground arrangements in Bali.',
+      'Bali Asri Tour has officially been recognized as a registered member of the Association of the Indonesian Tours and Travel Agencies (ASITA), the country’s primary regulatory body overseeing licensed tourism operators. The recognition formally places the company within Indonesia’s official tourism governance framework, a distinction that carries direct implications for how international clients, travel agencies, and individual travelers can evaluate the reliability of their ground arrangements in Bali.',
     image: '/images/blogs/bali-asita-membership.webp',
     tags: [
       'Bali Asri Tour',
@@ -3253,7 +3253,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: 'Legal Operational Guarantee',
         level: 'h3',
         body: [
-          'Membership confirms that Bali Asri Tour operates under Indonesia’s formal tourism licensing structure (NIB: 2712210002034), meaning the company’s business practices, contracts, and client dealings are subject to regulatory oversight rather than operating in a legal gray zone.',
+          'Membership confirms that Bali Asri Tour operates under Indonesia’s formal tourism licensing structure, meaning the company’s business practices, contracts, and client dealings are subject to regulatory oversight rather than operating in a legal gray zone.',
         ],
       },
       {
@@ -3283,7 +3283,7 @@ export const BLOG_POSTS: BlogPost[] = [
         heading: 'ASITA Licensed Operator vs Unregulated Freelance Driver',
         headers: ['Standard', 'ASITA Registered Operator (Bali Asri Tour)', 'Unregulated Freelance Driver'],
         rows: [
-          ['Legal Registration', 'Official PT & Government NIB License (2712210002034)', 'No formal company entity or commercial license'],
+          ['Legal Registration', 'Official Government Tourism Registration', 'No formal company entity or commercial license'],
           ['Passenger Insurance', 'Comprehensive commercial passenger liability coverage', 'Personal vehicle insurance often excludes tourists'],
           ['Fleet Maintenance', 'Scheduled safety checks & clean, modern vehicle standards', 'Irregular servicing, variable vehicle roadworthiness'],
           ['Dispute Recourse', 'Formal association mediation & consumer protection', 'No recourse if driver cancels or service fails'],

@@ -28,15 +28,15 @@ export default function PrivacyPolicyPage() {
 
         <div className="space-y-6 text-gray-700 text-sm sm:text-base leading-relaxed font-body">
           <p>
-            Your reservation is abolutely secure. All personal data is encrypted and will be processed in a secure way. Bali Asri Tour takes the privacy of your personal data very seriously. Your personal information will only be used to process your bali tour, packages and activities booking.
+            Your reservation is absolutely secure. All personal data is encrypted and will be processed in a secure way. Bali Asri Tour takes the privacy of your personal data very seriously. Your personal information will only be used to process your bali tour, packages and activities booking.
           </p>
 
           <p>
-            Bali Asri Tour is committed to maintaining your privacy, www.bali-agung-tours.com gathers certain types of information about you as part of our operations. This Privacy Policy (“Privacy Policy”) explains the types of information we gather, what we do with it and how you may correct or change that information.
+            Bali Asri Tour is committed to maintaining your privacy, baliasritour.com gathers certain types of information about you as part of our operations. This Privacy Policy (“Privacy Policy”) explains the types of information we gather, what we do with it and how you may correct or change that information.
           </p>
 
           <p>
-            <strong>Information Collected by Bali Asri Tour;</strong> www.bali-agung-tours.com collects, types of information about you – personal information (such as name and e-mail address)
+            <strong>Information Collected by Bali Asri Tour;</strong> baliasritour.com collects, types of information about you – personal information (such as name and e-mail address)
           </p>
 
           <p>
@@ -44,7 +44,7 @@ export default function PrivacyPolicyPage() {
           </p>
 
           <p>
-            www.bali-agung-tours.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Please contact us via e-mail at{' '}
+            baliasritour.com reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Please contact us via e-mail at{' '}
             <a href="mailto:info@baliasritour.com" className="text-[#308C17] hover:underline font-medium">
               info@baliasritour.com
             </a>{' '}

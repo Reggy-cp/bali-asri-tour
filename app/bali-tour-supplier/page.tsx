@@ -124,7 +124,7 @@ export default function BaliTourSupplierPage() {
               Ready to partner with Bali Asri Tour and offer unforgettable Bali experiences to your clients? Visit our website, send us an email, or give us a call. We look forward to working with you and providing exceptional tour services.
             </p>
             <div className="space-y-1 text-sm text-gray-800">
-              <p><strong>Website:</strong> <Link href="/" className="text-[#308C17] hover:underline">www.bali-agung-tours.com</Link></p>
+              <p><strong>Website:</strong> <Link href="/" className="text-[#308C17] hover:underline">baliasritour.com</Link></p>
               <p><strong>Email:</strong> <a href="mailto:info@baliasritour.com" className="text-[#308C17] hover:underline">info@baliasritour.com</a></p>
               <p><strong>Phone:</strong> <a href="tel:+62895410959263" className="text-[#308C17] hover:underline">+62 895-4109-59263</a></p>
             </div>
